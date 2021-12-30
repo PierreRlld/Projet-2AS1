@@ -1,0 +1,362 @@
+,Nom,Mouvement
+0,Jean_Moschus,hagiographie
+1,Jacques_de_Voragine,hagiographie
+2,Paul_Guérin_(religieux),hagiographie
+3,Société_des_Bollandistes,hagiographie
+4,Arnaut-Guilhem_de_Marsan,troubadour
+5,Raimon_d'Alayrac,troubadour
+6,Na_Alamanda,troubadour
+7,Chardon_de_Croisilles,troubadour
+8,Margot_de_Maroie,troubadour
+9,Roger-Bernard_III_de_Foix,troubadour
+10,Raymond_VI_de_Toulouse,troubadour
+11,Peire_Vidal,troubadour
+12,Lombarda,troubadour
+13,Guilhem_Figueira,troubadour
+14,Aicart_del_Fossat,troubadour
+15,Arnaud_d'Alaman,troubadour
+16,Aimeric_de_Peguilhan,troubadour
+17,Rigaut_de_Barbezieux,troubadour
+18,Rainaut_de_Pons,troubadour
+19,Jaufré_Rudel,troubadour
+20,Jean_Bodel,fabliau
+21,Hugues_III_d'Oisy,fabliau
+22,Gautier_de_Coincy,fabliau
+23,Chrétien_de_Troyes,roman courtois
+24,Guillaume_de_Machaut,rhetoriqueurs
+25,Famille_Robertet#Jean_(Jehan)_Robertet_(1405-1492),rhetoriqueurs
+26,Georges_Chastelain,rhetoriqueurs
+27,Henri_Baude,rhetoriqueurs
+28,Jean_Meschinot,rhetoriqueurs
+29,Olivier_de_la_Marche,rhetoriqueurs
+30,Jean_Molinet,rhetoriqueurs
+31,Octavien_de_Saint-Gelais,rhetoriqueurs
+32,Jean_Marot_(poète),rhetoriqueurs
+33,Guillaume_Dubois_(Crétin),rhetoriqueurs
+34,André_de_La_Vigne,rhetoriqueurs
+35,Jean_Lemaire_de_Belges,rhetoriqueurs
+36,Pierre_Gringore,rhetoriqueurs
+37,Jean_Bouchet,rhetoriqueurs
+38,Pétrarque,humanisme
+39,Laurent_Valla,humanisme
+40,Ricordano_Malispini,humanisme
+41,Dino_Compagni,humanisme
+42,Filippo_Villani,humanisme
+43,Martino_Canal,humanisme
+44,Andrea_Dandolo,humanisme
+45,Guido_Cavalcanti,humanisme
+46,Guido_Guinizelli,humanisme
+47,Cino_da_Pistoia,humanisme
+48,Coluccio_Salutati,humanisme
+49,Laurent_Valla,humanisme
+50,Théodore_Gaza,humanisme
+51,Jean_Argyropoulos,humanisme
+52,Giovanni_Aurispa,humanisme
+53,Gémiste_Pléthon,humanisme
+54,Cosme_de_Médicis,humanisme
+55,Marsile_Ficin,humanisme
+56,Michel_de_Montaigne,humanisme
+57,Érasme,humanisme
+58,Pierre_de_Ronsard,pleiade
+59,Joachim_du_Bellay,pleiade
+60,Jean-Antoine_de_Baïf,pleiade
+61,Étienne_Jodelle,pleiade
+62,Rémy_Belleau,pleiade
+63,Jean_Dorat,pleiade
+64,Jacques_Peletier,pleiade
+65,Pontus_de_Tyard,pleiade
+66,Al-Hamadhani,picaresque
+67,Mateo_Alemán,picaresque
+68,Pechon_de_Ruby,picaresque
+69,Vicente_Espinel,picaresque
+70,Francisco_de_Quevedo,picaresque
+71,Luis_Vélez_de_Guevara,picaresque
+72,Alonso_de_Castillo_Solórzano,picaresque
+73,Hans_Jakob_Christoffel_von_Grimmelshausen,picaresque
+74,Alain-René_Lesage,picaresque
+75,Daniel_Defoe,picaresque
+76,Pierre_Carlet_de_Chamblain_de_Marivaux,picaresque
+77,Henry_Fielding,picaresque
+78,Jean_Potocki,picaresque
+79,William_Makepeace_Thackeray,picaresque
+80,Jack_Vance,picaresque
+81,Jack_Kerouac,picaresque
+82,Frédérick_Tristan,picaresque
+83,T._C._Boyle,picaresque
+84,Arto_Paasilinna,picaresque
+85,Mikho_Mossoulichvili,picaresque
+86,Tobias_Smollett,picaresque
+87,Agrippa_d'Aubigné,baroque
+88,Jean_de_Lannel,baroque
+89,Antoine-André_Mareschal,baroque
+90,Paul_Scarron,baroque
+91,Savinien_Cyrano_de_Bergerac,baroque
+92,Molière,classique
+93,Jean_Racine,classique
+94,Pierre_Corneille,classique
+95,Jean_de_La_Fontaine,classique
+96,Nicolas_Boileau,classique
+97,François_Malaval,quietisme
+98,Madame_Guyon,quietisme
+99,Fénelon,quietisme
+100,André_Michel_Ramsay,quietisme
+101,Jean-Pierre_de_Caussade,quietisme
+102,Madeleine_de_Scudéry,preciosite
+103,Claudine_Guérin_de_Tencin,gothique
+104,Horace_Walpole,gothique
+105,John_Aikin,gothique
+106,Clara_Reeve,gothique
+107,Sophia_Lee,gothique
+108,William_Thomas_Beckford,gothique
+109,Mary_Robinson_(poète),gothique
+110,Mary_Ann_Radcliffe,gothique
+111,Eliza_Parsons,gothique
+112,Ann_Radcliffe,gothique
+113,Fanny_Burney,gothique
+114,Regina_Maria_Roche,gothique
+115,Brockden_Brown,gothique
+116,Charles_Robert_Maturin,gothique
+117,William_Harrison_Ainsworth,gothique
+118,Edgar_Allan_Poe,gothique
+119,Charlotte_Turner_Smith,gothique
+120,William_Godwin,gothique
+121,Matthew_Gregory_Lewis,gothique
+122,Francis_Lathom,gothique
+123,Charlotte_Dacre,gothique
+124,Mary_Shelley,gothique
+125,John_Polidori,gothique
+126,Washington_Irving,gothique
+127,James_Hogg,gothique
+128,Joseph_Sheridan_Le_Fanu,gothique
+129,Robert_Louis_Stevenson,gothique
+130,Bram_Stoker,gothique
+131,François-Thomas-Marie_de_Baculard_d'Arnaud,preromantisme
+132,Pierre_Le_Tourneur,preromantisme
+133,Jacques-Henri_Bernardin_de_Saint-Pierre,preromantisme
+134,Louis-Sébastien_Mercier,preromantisme
+135,Joseph_Marie_Loaisel_de_Tréogate,preromantisme
+136,Louis_Ramond_de_Carbonnières,preromantisme
+137,André_Chénier,preromantisme
+138,Germaine_de_Staël,preromantisme
+139,Benjamin_Constant,preromantisme
+140,Étienne_Pivert_de_Senancour,preromantisme
+141,Auguste_Creuzé_de_Lesser,preromantisme
+142,Charles_Nodier,preromantisme
+143,François-René_de_Chateaubriand,preromantisme
+144,Thomas_Jefferson,Lumieres
+145,Emmanuel_Kant,Lumieres
+146,Montesquieu,Lumieres
+147,Voltaire,Lumieres
+148,Adam_Smith,Lumieres
+149,Louis_de_Jaucourt,Lumieres
+150,Pierre_Bayle,Lumieres
+151,Émilie_du_Châtelet,Lumieres
+152,Étienne_Bonnot_de_Condillac,Lumieres
+153,Denis_Diderot,Lumieres
+154,Jean_le_Rond_D'Alembert,Lumieres
+155,Olympe_de_Gouges,Lumieres
+156,Vincent_de_Gournay,Lumieres
+157,D'Holbach,Lumieres
+158,Bernard_Le_Bouyer_de_Fontenelle,Lumieres
+159,Claude-Adrien_Helvétius,Lumieres
+160,Gilbert_du_Motier_de_La_Fayette,Lumieres
+161,Antoine_Laurent_de_Lavoisier,Lumieres
+162,Julien_Offray_de_La_Mettrie,Lumieres
+163,Louis_de_Jaucourt,Lumieres
+164,Pierre_Choderlos_de_Laclos,Lumieres
+165,Marquis_de_Sade,Lumieres
+166,Pierre_Carlet_de_Chamblain_de_Marivaux,Lumieres
+167,Jean-François_Marmontel,Lumieres
+168,Pierre_Louis_Moreau_de_Maupertuis,Lumieres
+169,François_Quesnay,Lumieres
+170,Nicolas_Edme_Restif_de_La_Bretonne,Lumieres
+171,Antoine_Destutt_de_Tracy,Lumieres
+172,Anne_Robert_Jacques_Turgot,Lumieres
+173,Georges-Louis_Leclerc_de_Buffon,Lumieres
+174,Jean-Jacques_Rousseau,Lumieres
+175,Paul_Alexis,Naturalisme
+176,Ludwig_Anzengruber,Naturalisme
+177,Henry_Becque,Naturalisme
+178,Paul_Bonnetain,Naturalisme
+179,Henry_Céard,Naturalisme
+180,Hermann_Conradi,Naturalisme
+181,Alphonse_Daudet,Naturalisme
+182,Lucien_Descaves,Naturalisme
+183,Louis_Marie_Desprez,Naturalisme
+184,Theodore_Dreiser,Naturalisme
+185,Léon_Duvauchel,Naturalisme
+186,Frères_Goncourt,Naturalisme
+187,Edmond_de_Goncourt,Naturalisme
+188,Jules_de_Goncourt,Naturalisme
+189,Gustave_Guiches,Naturalisme
+190,Carl_Hauptmann,Naturalisme
+191,Léon_Hennique,Naturalisme
+192,Joris-Karl_Huysmans,Naturalisme
+193,Victor_Joze,Naturalisme
+194,Guy_de_Maupassant,Naturalisme
+195,Octave_Mirbeau,Naturalisme
+196,Jean_Richepin,Naturalisme
+197,Johannes_Schlaf,Naturalisme
+198,Jean_Viollis,Naturalisme
+199,Ernst_von_Wolzogen,Naturalisme
+200,Émile_Zola,Naturalisme
+201,Théophile_Gautier,Parnasse
+202,Théodore_de_Banville,Parnasse
+203,Leconte_de_Lisle,Parnasse
+204,Catulle_Mendès,Parnasse
+205,Sully_Prudhomme,Parnasse
+206,José-Maria_de_Heredia,Parnasse
+207,François_Coppée,Parnasse
+208,Léon_Dierx,Parnasse
+209,Louis_Ménard,Parnasse
+210,Auguste_de_Villiers_de_L'Isle-Adam,Parnasse
+211,Jean_Moréas,Ecole romane
+212,Charles_Maurras,Ecole romane
+213,Maurice_du_Plessys,Ecole romane
+214,Ernest_Raynaud,Ecole romane
+215,Raymond_de_La_Tailhède,Ecole romane
+216,Jules_Barbey_d'Aurevilly,décadentisme
+217,Maurice_Rollinat,décadentisme
+218,Auguste_de_Villiers_de_l'Isle-Adam,décadentisme
+219,Joris-Karl_Huysmans,décadentisme
+220,Jean_Moréas,décadentisme
+221,Élémir_Bourges,décadentisme
+222,Jules_Laforgue,décadentisme
+223,Henri_Beauclair,décadentisme
+224,Gabriel_Vicaire,décadentisme
+225,Félicien_Champsaur,décadentisme
+226,Paul_Devaux,décadentisme
+227,Louis_Dumur,décadentisme
+228,Remy_de_Gourmont,décadentisme
+229,Jean_Bertheroy,décadentisme
+230,Léon_Bloy,décadentisme
+231,René_Boylesve,décadentisme
+232,Marcel_Proust,décadentisme
+233,Pierre_Louÿs,décadentisme
+234,Jean_Lorrain,décadentisme
+235,Jane_de_La_Vaudère,décadentisme
+236,Camille_Mauclair,décadentisme
+237,Octave_Mirbeau,décadentisme
+238,Hugues_Rebell,décadentisme
+239,Georges_Eekhoud,décadentisme
+240,Jean_Lorrain,décadentisme
+241,Henri_Barbusse,décadentisme
+242,Georges_Fourest,décadentisme
+243,Rachilde,décadentisme
+244,Albert_Camus,absurde
+245,Bertolt_Brecht,absurde
+246,Dino_Buzzati,absurde
+247,Eugène_Ionesco,absurde
+248,Samuel_Beckett,absurde
+249,Fernando_Arrabal,absurde
+250,Jean_Genet,absurde
+251,Raymond_Queneau,oulipo
+252,Jean_Queval,oulipo
+253,Albert-Marie_Schmidt,oulipo
+254,Jean_Lescure_(écrivain),oulipo
+255,Emmanuel_Peillet,oulipo
+256,Jacques_Duchateau,oulipo
+257,Claude_Berge,oulipo
+258,Jacques_Bens,oulipo
+259,Noël_Arnaud,oulipo
+260,James_Joyce,Courant de conscience
+261,Virginia_Woolf,Courant de conscience
+262,William_Faulkner,Courant de conscience
+263,Claude_Simon,Courant de conscience
+264,Henry_Poulaille,proletarienne
+265,Marc_Bernard,proletarienne
+266,Henri_Barbusse,proletarienne
+267,Marcel_Martinet,proletarienne
+268,Georges_Altman,proletarienne
+269,Francis_André_(auteur),proletarienne
+270,Albert_Ayguesparse,proletarienne
+271,Marc_Bernard,proletarienne
+272,Eugène_Dabit,proletarienne
+273,Georges_David,proletarienne
+274,Maurice_Fombeure,proletarienne
+275,Lucien_Gachon,proletarienne
+276,Pierre_Hubermont,proletarienne
+277,Constant_Malva,proletarienne
+278,Ludovic_Massé,proletarienne
+279,Charles_Plisnier,proletarienne
+280,Édouard_Peisson,proletarienne
+281,Tristan_Rémy,proletarienne
+282,Victor_Serge,proletarienne
+283,Edmond_Vandercammen,proletarienne
+284,Magdeleine_Paz,proletarienne
+285,Jean-Paul_Sartre,existentialisme
+286,Gabriel_Marcel,existentialisme
+287,Jacques_Lavigne_(philosophe),existentialisme
+288,Kierkegaard,existentialisme
+289,Paul_Tillich,existentialisme
+290,Gabriel_Marcel,existentialisme
+291,Emmanuel_Levinas,existentialisme
+292,Abdurrahmân_Badawî,existentialisme
+293,William_Carlos_Williams,objectivisme
+294,Louis_Zukofsky,objectivisme
+295,George_Oppen,objectivisme
+296,Charles_Reznikoff,objectivisme
+297,Carl_Rakosi,objectivisme
+298,Basil_Bunting,objectivisme
+299,Jean_Bouhier_(poète),Ecole de Rochefort
+300,René_Guy_Cadou,Ecole de Rochefort
+301,Michel_Manoll,Ecole de Rochefort
+302,Fernand_Marc,Ecole de Rochefort
+303,Marcel_Béalu,Ecole de Rochefort
+304,Jean_Rousselot,Ecole de Rochefort
+305,Luc_Bérimont,Ecole de Rochefort
+306,Jean_Jégoudez,Ecole de Rochefort
+307,Maurice_Fombeure,Ecole de Rochefort
+308,Yanette_Delétang-Tardif,Ecole de Rochefort
+310,Louis_Émié,Ecole de Rochefort
+311,Jean_Follain,Ecole de Rochefort
+312,Pierre_Garnier,Ecole de Rochefort
+313,Louis_Guillaume,Ecole de Rochefort
+314,Luc_Decaunes,Ecole de Rochefort
+315,Eugène_Guillevic,Ecole de Rochefort
+316,Gabriel_Audisio_(romancier_et_poète),Ecole de Rochefort
+317,Lucien_Becker,Ecole de Rochefort
+318,Alexandre_Toursky,Ecole de Rochefort
+319,Henri_de_Lescoët,Ecole de Rochefort
+320,Alain_Borne,Ecole de Rochefort
+321,Georges-Emmanuel_Clancier,Ecole de Rochefort
+322,André_Verdet,Ecole de Rochefort
+323,Charles_Autrand,Ecole de Rochefort
+324,Paul_Chaulot,Ecole de Rochefort
+325,Louis_Parrot,Ecole de Rochefort
+326,Roger_Toulouse,Ecole de Rochefort
+327,Serge_Wellens,Ecole de Rochefort
+328,Claude_Vaillant,Ecole de Rochefort
+329,Yves_Salgues,Ecole de Rochefort
+330,Gaston_Puel,Ecole de Rochefort
+331,Pierre_Béarn,Ecole de Rochefort
+332,André_Marissel,Ecole de Rochefort
+333,Edmond_Humeau,Ecole de Rochefort
+334,Jean_L'Anselme,Ecole de Rochefort
+335,Jean-Vincent_Verdonnet,Ecole de Rochefort
+336,Jean_Breton,Ecole de Rochefort
+337,Michel_Butor,Nouveau Roman
+338,Alain_Robbe-Grillet,Nouveau Roman
+339,Nathalie_Sarraute,Nouveau Roman
+340,Claude_Simon,Nouveau Roman
+341,Claude_Ollier,Nouveau Roman
+342,Marguerite_Duras,Nouveau Roman
+343,Jean_Ricardou,Nouveau Roman
+344,Miguel_Ángel_Asturias,Realisme magique
+345,Carlos_Fuentes,Realisme magique
+346,Juan_Rulfo,Realisme magique
+347,Adolfo_Bioy_Casares,Realisme magique
+348,Julio_Cortázar,Realisme magique
+349,Jaime_Sáenz,Realisme magique
+350,José_María_Arguedas,Realisme magique
+351,Manuel_Scorza,Realisme magique
+352,Gabriel_García_Márquez,Realisme magique
+353,Paulette_Nardal,Négritude
+354,Jeanne_Nardal,Négritude
+355,Aimé_Césaire,Négritude
+356,Léopold_Sédar_Senghor,Négritude
+357,Jacques_Rabemananjara,Négritude
+358,Léon-Gontran_Damas,Négritude
+359,Guy_Tirolien,Négritude
+360,Birago_Diop,Négritude
+361,René_Depestre,Négritude
