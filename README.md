@@ -10,8 +10,8 @@ Arborescence fichiers:<br>
     - [mvm_scrap](mvm_scrap.ipynb) : scraping de cette [page](https://fr.wikipedia.org/wiki/Liste_des_mouvements_litt%C3%A9raires) afin d'obtenir une liste de mouvements littéraires puis scraping de chaque page de chaque mouvement.
         > Création [mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv) 
      - [cleaning_mouvements](cleaning_mouvements.ipynb) : 
-        > Création [auteurs_completed.csv](auteurs_completed.ipynb) à partir de [data.csv](data.ipynb) : on rajoute la page wikipedia dans son ensemble si possible.
-        > Création [Mouvements_wiki_cleaned1.csv](Mouvements_wiki_cleaned1.csv) à partir de [Mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv) : différence au niveau du format des noms des mouvements (format % ou texte classique).
+        > Création [auteurs_completed.csv](auteurs_completed.ipynb) à partir de [data.csv](data.ipynb) : on rajoute la page wikipedia dans son ensemble si possible.<br>
+        > Création [Mouvements_wiki_cleaned1.csv](Mouvements_wiki_cleaned1.csv) à partir de [Mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv) : différence au niveau du format des noms des mouvements (format % ou texte classique).<br>
 - Modélisation:
     - Classification:
         > [Dictionary method](pred_dictionary_method.ipynb) : prédiction du mouvement auquel appartient un auteur sur la base du comptage. On compare de différentes manières le texte de la page wikipédia de chaque auteur, ou simplement le résumé, avec les informations obtenues sur chaque mouvement littéraire via leur page wikipédia afin de prédire de laquelle il est le plus proche.<br>
