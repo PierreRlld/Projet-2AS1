@@ -3,4 +3,5 @@
 #
 Arborescence fichiers:<br>
 - Notebooks de scraping:
-    - [sub_scrap](sub_scrap.ipynb)
+    - [sub_scrap](sub_scrap.ipynb) : 
+        > Création de [data.csv](data.csv)
