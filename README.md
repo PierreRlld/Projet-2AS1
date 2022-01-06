@@ -9,3 +9,6 @@ Arborescence fichiers:<br>
         > Création [data.csv](data.csv)
     - [mvm_scrap](mvm_scrap.ipynb) :
         > Création [Mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv)
+- Modélisation:
+    - Classification:
+        > [Dictionary method](predictions avec dictionary method(1).ipynb)
