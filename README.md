@@ -22,9 +22,12 @@ Arborescence fichiers:<br>
         > Création [data.csv](data.csv)
     - [mvm_scrap](mvm_scrap.ipynb) : scraping de cette [page](https://fr.wikipedia.org/wiki/Liste_des_mouvements_litt%C3%A9raires) afin d'obtenir une liste de mouvements littéraires puis scraping de chaque page de chaque mouvement.
         > Création [mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv) 
-    - [cleaning_mouvements](cleaning_mouvements.ipynb) : 
+    - [cleaning_mouvements](cleaning_mouvements.ipynb) :
+        > Création [auteur_incomplete_completed.csv], [auteurs_completed_lem.csv], [auteurs_complete2.csv] : rajouter de données wikipedia via la bibliothèque Wikipédia pour des auteurs pour lesquels une partie du scraping précédent avait échoué.
         > Création [auteurs_completed.csv](auteurs_completed.ipynb) à partir de [data.csv](data.ipynb) : on rajoute la page wikipedia dans son ensemble si possible.<br>
         > Création [Mouvements_wiki_cleaned1.csv](Mouvements_wiki_cleaned1.csv) à partir de [Mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv) : différence au niveau du format des noms des mouvements (format % ou texte classique).<br>
+        > Création [auteurs_pred_1.csv] : résultat des prédictions avec dictionary method sur data.csv
+        > Création [auteurs_pred2.csv] : résultat des prédictions avec dictionary method les auteurs de data.csv pour lesquels les données des mouvements associées ont bien été récupéres. Cela représente une perte de quelques dizaines d'entrées par rapport à auteurs_pred_1. C'est sur ce dataframe que sont évaluées les méthodes de dictionnaire.
 - Modélisation:
     - Classification:
         > [Dictionary method](pred_dictionary_method.ipynb) : prédiction du mouvement auquel appartient un auteur sur la base du comptage. On compare de différentes manières le texte de la page wikipédia de chaque auteur, ou simplement le résumé, avec les informations obtenues sur chaque mouvement littéraire via leur page wikipédia afin de prédire de laquelle il est le plus proche.<br>
