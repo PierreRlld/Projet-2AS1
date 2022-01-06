@@ -15,3 +15,5 @@ Arborescence fichiers:<br>
         > [Body](body.ipynb)
     - Clustering: 
         > [LDA](LDA.ipynb)
+- Visualisation:
+    - [Word clouds](projet_python_visualisation(1).ipynb)
