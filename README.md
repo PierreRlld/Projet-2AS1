@@ -29,8 +29,8 @@ Arborescence fichiers:<br>
 - Modélisation:
     - Classification:
         > [Dictionary method](pred_dictionary_method.ipynb) : prédiction du mouvement auquel appartient un auteur sur la base du comptage. On compare de différentes manières le texte de la page wikipédia de chaque auteur, ou simplement le résumé, avec les informations obtenues sur chaque mouvement littéraire via leur page wikipédia afin de prédire de laquelle il est le plus proche.<br>
-                + Création [auteurs_pred_1.csv](auteurs_pred_1.csv) : résultat des prédictions avec dictionary method sur [data.csv](data.csv) <br>
-                + Création [auteurs_pred2.csv](auteurs_pred2.csv) : résultat des prédictions avec dictionary method les auteurs de data.csv pour lesquels les données des mouvements associées ont bien été récupéres. Cela représente une perte de quelques dizaines d'entrées par rapport à auteurs_pred_1. C'est sur ce dataframe que sont évaluées les méthodes de dictionnaire. <br>
+                + Création [auteurs_pred_1.csv](auteurs_pred_1.csv) : résultat des prédictions avec dictionary method sur [data](data.csv) <br>
+                + Création [auteurs_pred2.csv](auteurs_pred2.csv) : résultat des prédictions avec dictionary method les auteurs de data.csv pour lesquels les données des mouvements associées ont bien été récupéres. Cela représente une perte de quelques dizaines d'entrées par rapport à [auteurs_pred_1](auteurs_pred_1). C'est sur ce dataframe que sont évaluées les méthodes de dictionnaire. <br>
         > [Body](body.ipynb) : on teste simplement quelques modèles connus mais sans pousser par manque de temps.
     - Clustering: 
         > [LDA](LDA.ipynb) : utilisation de ce topic model pour tenter d'agréger les corpus de textes que sont les pages wikipédia des auteurs en cluster correspondant aux mouvements littéraires.
