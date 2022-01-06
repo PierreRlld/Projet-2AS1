@@ -12,3 +12,6 @@ Arborescence fichiers:<br>
 - Modélisation:
     - Classification:
         > [Dictionary method](pred_dictionary_method.ipynb)
+        > [Body](body.ipynb)
+    - Clustering: 
+        > [LDA](LDA.ipynb)
