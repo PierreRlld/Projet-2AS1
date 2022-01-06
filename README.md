@@ -11,4 +11,9 @@ Arborescence fichiers:<br>
         > Création [Mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv)
 - Modélisation:
     - Classification:
-        > [Dictionary method](pred_dictionary_method.ipynb)
+        > [Dictionary method](pred_dictionary_method.ipynb)<br>
+        > [Body](body.ipynb)
+    - Clustering: 
+        > [LDA](LDA.ipynb)
+- Visualisation:
+    - [Word clouds](projet_python_visualisation(1).ipynb)
