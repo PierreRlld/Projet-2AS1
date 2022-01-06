@@ -4,7 +4,7 @@
 
 L'objectif de ce projet était d'utiliser les données disponibles sur wikipédia pour associer à des auteurs le mouvement littéraire auquel ils appartiennent en utilisant des méthodes d'analyse de texte/NLP. Nous nous sommes donc tournés vers des techniques de classification/topic modeling pour essayer de reconstituer ces mouvements. Bien que les tâches et les techniques soient classiques, les notions que nous essayons de capturer sont complexes et assez abstraites, donnant son intérêt au sujet.
 Nous avons été amené à scraper des pages wikipédia afin d'obtenir des listes de mouvement et d'auteurs automatiquement et manuellement pour compléter lorsque nécessaire. 
-Nous avons également transformer ces données textuelles pour mieux les interpréter et les visualiser, avant de passer aux différentes modélisations. 
+Nous avons également transformé ces données textuelles pour mieux les interpréter et les visualiser, avant de passer aux différentes modélisations. 
 
 Vous trouverez ci-dessous le détail des fichiers de code et .csv produits et les tâches auxquels ils correspondent.
 
