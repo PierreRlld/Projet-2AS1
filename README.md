@@ -6,7 +6,7 @@ Arborescence fichiers:<br>
 
 - Traitement de données:
 
-   *-fichier : description*
+   *-fichier : description*<br>
         *> output*
     
     - [trait_liste_manuelle](trait_liste_manuelle.ipynb) : traitement d'une liste de mouvements et d'auteurs [liste_auteurs_manuelle.csv](liste_auteurs_manuelle.csv) afin de créer un dataset propre.
