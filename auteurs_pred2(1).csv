@@ -1,0 +1,560 @@
+,Mouvement,pred_tf_w,pred_tf_sum,pred_txt_w,pred_txt_s,test
+0,Beat Generation,['Beat Generation'],['Beat Generation'],['symboliste'],['symboliste'],1
+1,Beat Generation,['Beat Generation'],"['Beat Generation', 'Génération perdue']",['symboliste'],['symboliste'],1
+2,Beat Generation,['Beat Generation'],['Génération perdue'],['Beat Generation'],['symboliste'],1
+3,Beat Generation,['Beat Generation'],['Beat Generation'],['symboliste'],['Beat Generation'],1
+4,Beat Generation,['Beat Generation'],['Beat Generation'],['Beat Generation'],['Beat Generation'],1
+5,Beat Generation,['Beat Generation'],['Beat Generation'],['symboliste'],['symboliste'],1
+6,Beat Generation,['Beat Generation'],['Beat Generation'],['Beat Generation'],['Beat Generation'],1
+7,Beat Generation,['Beat Generation'],"['Génération perdue', 'objectivisme']",['Beat Generation'],['symboliste'],1
+8,Beat Generation,['Beat Generation'],['Beat Generation'],['symboliste'],['Beat Generation'],1
+9,Beat Generation,['Beat Generation'],"['Beat Generation', 'Génération perdue']",['Beat Generation'],['symboliste'],1
+10,Génération perdue,['Génération perdue'],['Génération perdue'],['symboliste'],['symboliste'],1
+11,Génération perdue,['Génération perdue'],['Génération perdue'],['symboliste'],['symboliste'],1
+12,Génération perdue,['Imagisme'],"['Imagisme', 'symboliste', 'Parnasse', 'classique']",['symboliste'],['symboliste'],1
+13,Génération perdue,['Génération perdue'],['R%C3%A9alisme_socialiste_en_France'],['symboliste'],['symboliste'],1
+14,Génération perdue,['Génération perdue'],['Génération perdue'],['symboliste'],['symboliste'],1
+15,Génération perdue,['Génération perdue'],['Génération perdue'],['symboliste'],['symboliste'],1
+16,Génération perdue,['Génération perdue'],"['symboliste', 'pleiade']",['Lumieres'],['symboliste'],1
+17,Génération perdue,['Imagisme'],['objectivisme'],['symboliste'],['symboliste'],1
+18,Génération perdue,['Imagisme'],['Génération perdue'],['symboliste'],['symboliste'],1
+19,Génération perdue,['Génération perdue'],"['Imagisme', 'Génération perdue', 'proletarienne']",['symboliste'],['symboliste'],1
+20,du courant réaliste,"['Post-humanisme', 'Esth%C3%A9tisme']","['Génération perdue', 'proletarienne', 'Parnasse', 'Illuminisme', 'Po%C3%A9sie_courtoise']","['symboliste', 'Lumieres']",['symboliste'],2
+21,du courant réaliste,['du courant réaliste'],"['Négritude', 'Realisme magique', 'Esth%C3%A9tisme', 'Naturalisme', 'du courant réaliste', 'romantique', 'Po%C3%A9sie_courtoise']",['symboliste'],['romantique'],1
+22,du courant réaliste,"['Autofiction', 'gothique']",['du courant réaliste'],['Lumieres'],['symboliste'],2
+23,du courant réaliste,['du courant réaliste'],['du courant réaliste'],['symboliste'],['symboliste'],1
+24,du courant réaliste,['Autofiction'],['Esth%C3%A9tisme'],['symboliste'],['symboliste'],1
+25,du courant réaliste,"['Ecole romane', 'Po%C3%A9sie_courtoise']",['pleiade'],['symboliste'],['symboliste'],2
+26,du courant réaliste,['Parnasse'],['du courant réaliste'],['symboliste'],['symboliste'],1
+27,du courant réaliste,['Imagisme'],"['Imagisme', 'humanisme']",['symboliste'],['symboliste'],1
+28,du courant réaliste,['Génération perdue'],['R%C3%A9alisme_socialiste_en_France'],['symboliste'],['symboliste'],1
+29,du courant réaliste,['Génération perdue'],['du courant réaliste'],['symboliste'],['symboliste'],1
+30,du courant réaliste,"['Imagisme', 'objectivisme', 'du courant réaliste']","['Naturalisme', 'du courant réaliste']",['symboliste'],['symboliste'],3
+31,du courant réaliste,"['Autofiction', 'Naturalisme']",['du courant réaliste'],['symboliste'],['symboliste'],2
+32,du courant réaliste,['Parnasse'],['du courant réaliste'],['symboliste'],['symboliste'],1
+33,du courant réaliste,['Imagisme'],"['Realisme magique', 'classique']",['symboliste'],['existentialisme'],1
+34,du courant réaliste,['Imagisme'],['classique'],['symboliste'],['symboliste'],1
+35,du courant réaliste,['Imagisme'],['oulipo'],['symboliste'],['symboliste'],1
+36,du courant réaliste,"['Autofiction', 'gothique']",['Naturalisme'],['symboliste'],['symboliste'],2
+37,du courant réaliste,['du courant réaliste'],['du courant réaliste'],['symboliste'],['symboliste'],1
+38,du courant réaliste,"['Imagisme', 'Futurisme']","['Négritude', 'absurde', 'décadentisme', 'du courant réaliste', 'gothique', 'Burlesque', 'pleiade', 'humanisme']",['symboliste'],['symboliste'],2
+39,du courant réaliste,"['Imagisme', 'Autofiction', 'Ecole romane']","['symboliste', 'pleiade']",['symboliste'],['symboliste'],3
+40,du courant réaliste,['Imagisme'],"['Imagisme', 'Th%C3%A9%C3%A2tre_de_l%27absurde', 'Ecole de Rochefort', 'Dada%C3%AFsme', 'Courant de conscience', 'oulipo', 'surréaliste', 'symboliste', 'Parnasse', 'Naturalisme', 'du courant réaliste', 'romantique', 'pleiade']",['symboliste'],['symboliste'],1
+41,du courant réaliste,['Ecole romane'],"['Naturalisme', 'du courant réaliste']",['symboliste'],['symboliste'],1
+42,du courant réaliste,['Imagisme'],"['proletarienne', 'R%C3%A9alisme_socialiste_en_France', 'Futurisme', 'symboliste', 'Naturalisme', 'du courant réaliste', 'Libertin', 'Moralisme']",['symboliste'],['symboliste'],1
+43,du courant réaliste,['Imagisme'],"['Imagisme', 'Naturalisme']",['symboliste'],['proletarienne'],1
+44,du courant réaliste,['Ecole romane'],"['proletarienne', 'Illuminisme']",['symboliste'],['proletarienne'],1
+45,du courant réaliste,"['Post-humanisme', 'Imagisme', 'Realisme magique', 'symboliste']",['humanisme'],['symboliste'],['humanisme'],4
+46,du courant réaliste,"['Imagisme', 'proletarienne']","['Génération perdue', 'R%C3%A9alisme_socialiste_en_France', 'Populisme_(litt%C3%A9rature)', 'du courant réaliste']",['symboliste'],['symboliste'],2
+47,du courant réaliste,['Ecole romane'],"['du courant réaliste', 'preciosite', 'pleiade', 'troubadour']",['symboliste'],['symboliste'],1
+48,du courant réaliste,"['Génération perdue', 'du courant réaliste', 'romantique', 'gothique']",['romantique'],['symboliste'],['symboliste'],4
+49,du courant réaliste,['R%C3%A9alisme_hyst%C3%A9rique'],"['R%C3%A9alisme_hyst%C3%A9rique', 'Imagisme', 'Beat Generation', 'proletarienne', 'Dada%C3%AFsme', 'oulipo', 'Esth%C3%A9tisme', 'décadentisme', 'Parnasse', 'roman courtois', 'Chanson_de_geste']",['symboliste'],['symboliste'],1
+50,du courant réaliste,['Imagisme'],"['symboliste', 'romantique', 'classique']",['symboliste'],['symboliste'],1
+51,du courant réaliste,['Imagisme'],['du courant réaliste'],['symboliste'],['symboliste'],1
+52,du courant réaliste,['du courant réaliste'],['du courant réaliste'],['symboliste'],['symboliste'],1
+53,du courant réaliste,['Autofiction'],['humanisme'],['symboliste'],['symboliste'],1
+54,du courant réaliste,['Imagisme'],"['Naturalisme', 'du courant réaliste']",['symboliste'],['symboliste'],1
+55,romantique,['Imagisme'],['humanisme'],['symboliste'],['symboliste'],1
+56,romantique,['Lumieres'],"['Ecole romane', 'romantique', 'Lumieres', 'preromantisme']",['Lumieres'],"['existentialisme', 'Lumieres']",1
+57,romantique,['N%C3%A9or%C3%A9alisme_(art)'],"['Imagisme', 'Ecole de Rochefort', 'Parnasse', 'pleiade', 'Chanson_de_geste']",['symboliste'],['symboliste'],1
+58,romantique,['romantique'],"['Parnasse', 'romantique', 'pleiade']",['symboliste'],['symboliste'],1
+59,romantique,['romantique'],"['Po%C3%A9sie_courtoise', 'troubadour']",['symboliste'],['existentialisme'],1
+60,romantique,['du courant réaliste'],['du courant réaliste'],['symboliste'],['symboliste'],1
+61,romantique,['Imagisme'],['Imagisme'],['symboliste'],['symboliste'],1
+62,romantique,['Parnasse'],['pleiade'],['symboliste'],['symboliste'],1
+63,romantique,"['romantique', 'preromantisme']",['romantique'],['symboliste'],['symboliste'],2
+64,romantique,['romantique'],"['Imagisme', 'Ecole de Rochefort', 'proletarienne', 'surréaliste', 'symboliste', 'Parnasse', 'du courant réaliste', 'romantique', 'preromantisme', 'Illuminisme', 'pleiade', 'rhetoriqueurs']",['symboliste'],['symboliste'],1
+65,romantique,['romantique'],"['Lettrisme', 'Dada%C3%AFsme', 'oulipo', 'décadentisme', 'Parnasse', 'romantique', 'preromantisme', 'Illuminisme']",['symboliste'],['symboliste'],1
+66,romantique,['Imagisme'],['Naturalisme'],['symboliste'],['symboliste'],1
+67,romantique,['Imagisme'],"['Imagisme', 'objectivisme', 'Parnasse']",['symboliste'],['symboliste'],1
+68,romantique,['Imagisme'],"['Imagisme', 'gothique']",['Lumieres'],['symboliste'],1
+69,romantique,['Imagisme'],"['Imagisme', 'romantique', 'Chanson_de_geste']",['Lumieres'],['symboliste'],1
+70,romantique,"['objectivisme', 'gothique']",['pleiade'],['symboliste'],['symboliste'],2
+71,romantique,['gothique'],['Imagisme'],['Lumieres'],['symboliste'],1
+72,romantique,"['objectivisme', 'proletarienne', 'Esth%C3%A9tisme', 'Ecole romane', 'Chanson_de_geste']",['proletarienne'],['symboliste'],['symboliste'],5
+73,romantique,"['R%C3%A9alisme_hyst%C3%A9rique', 'Imagisme', 'Autofiction', 'objectivisme', 'Futurisme', 'Parnasse', 'Naturalisme', 'gothique']",['Imagisme'],['Lumieres'],['symboliste'],8
+74,romantique,['romantique'],"['Imagisme', 'Ecole de Rochefort', 'Parnasse', 'du courant réaliste', 'pleiade', 'Chanson_de_geste']",['symboliste'],['symboliste'],1
+75,romantique,['Esth%C3%A9tisme'],"['Parnasse', 'romantique']",['symboliste'],['symboliste'],1
+76,romantique,"['Imagisme', 'Parnasse']",['surréaliste'],['symboliste'],['symboliste'],2
+77,romantique,['du courant réaliste'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'R%C3%A9alisme_socialiste_en_France', 'symboliste', 'pleiade']",['symboliste'],['symboliste'],1
+78,romantique,['Ecole romane'],"['Imagisme', 'proletarienne', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Parnasse', 'romantique', 'preromantisme', 'gothique', 'quietisme']",['symboliste'],['romantique'],1
+79,romantique,['Imagisme'],['Parnasse'],['Lumieres'],['symboliste'],1
+80,romantique,"['Imagisme', 'du courant réaliste']",['Parnasse'],['symboliste'],['symboliste'],2
+81,romantique,"['Realisme magique', 'objectivisme', 'du courant réaliste', 'gothique']","['Naturalisme', 'Lumieres', 'gothique', 'classique']",['symboliste'],"['existentialisme', 'humanisme']",4
+82,romantique,['romantique'],['romantique'],['Lumieres'],['symboliste'],1
+83,romantique,"['Nouveau Roman', 'Lettrisme', 'proletarienne', 'Dada%C3%AFsme', 'surréaliste', 'preromantisme']","['Dada%C3%AFsme', 'troubadour']",['symboliste'],['symboliste'],6
+84,romantique,['romantique'],['du courant réaliste'],['symboliste'],['symboliste'],1
+85,romantique,"['R%C3%A9alisme_hyst%C3%A9rique', 'Imagisme', 'objectivisme', 'Illuminisme']",['Dada%C3%AFsme'],"['symboliste', 'Lumieres']",['existentialisme'],4
+86,romantique,['romantique'],['Esth%C3%A9tisme'],['symboliste'],['symboliste'],1
+87,romantique,['Imagisme'],['romantique'],['symboliste'],['symboliste'],1
+88,romantique,['gothique'],"['du courant réaliste', 'gothique', 'hagiographie']",['Lumieres'],['symboliste'],1
+89,romantique,['romantique'],['romantique'],['symboliste'],['symboliste'],1
+90,romantique,['Imagisme'],['Parnasse'],['symboliste'],['symboliste'],1
+91,romantique,['romantique'],"['Imagisme', 'Ecole de Rochefort', 'proletarienne', 'Dada%C3%AFsme', 'surréaliste', 'symboliste', 'Parnasse', 'classique', 'pleiade']",['symboliste'],['symboliste'],1
+92,romantique,['Imagisme'],['preromantisme'],['symboliste'],['symboliste'],1
+93,romantique,['romantique'],"['Dada%C3%AFsme', 'romantique']",['symboliste'],"['existentialisme', 'proletarienne']",1
+94,romantique,['Imagisme'],['existentialisme'],['symboliste'],['symboliste'],1
+95,romantique,"['Post-humanisme', 'Imagisme', 'Burlesque']","['Imagisme', 'Ecole de Rochefort', 'surréaliste', 'symboliste', 'Parnasse', 'Naturalisme', 'du courant réaliste', 'pleiade', 'fabliau', 'Chanson_de_geste']",['symboliste'],['symboliste'],3
+96,romantique,"['Imagisme', 'Realisme magique', 'proletarienne']",['Lumieres'],['symboliste'],['symboliste'],3
+97,romantique,"['Imagisme', 'Autofiction']",['romantique'],['symboliste'],['symboliste'],2
+98,romantique,['Ecole romane'],"['Génération perdue', 'décadentisme', 'Naturalisme', 'du courant réaliste', 'pleiade']",['symboliste'],['symboliste'],1
+99,romantique,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+100,romantique,"['Nouveau Roman', 'Génération perdue', 'Lumieres', 'preromantisme', 'picaresque']","['décadentisme', 'romantique']",['Lumieres'],['symboliste'],5
+101,romantique,['Imagisme'],"['symboliste', 'pleiade']",['symboliste'],['symboliste'],1
+102,romantique,"['Imagisme', 'romantique']",['preromantisme'],['symboliste'],['proletarienne'],2
+103,romantique,"['Autofiction', 'romantique']","['Négritude', 'proletarienne', 'Dada%C3%AFsme', 'romantique', 'preromantisme', 'gothique', 'Illuminisme']",['symboliste'],['symboliste'],2
+104,romantique,['Imagisme'],['Parnasse'],['symboliste'],['symboliste'],1
+105,romantique,['du courant réaliste'],"['Parnasse', 'pleiade']",['symboliste'],['symboliste'],1
+106,romantique,['gothique'],"['Parnasse', 'preromantisme']",['symboliste'],['symboliste'],1
+107,romantique,['Courant de conscience'],['romantique'],['symboliste'],['symboliste'],1
+108,romantique,['Nouveau Roman'],['Parnasse'],['Nouveau Roman'],['symboliste'],1
+109,romantique,['gothique'],['Illuminisme'],['symboliste'],['proletarienne'],1
+110,romantique,['Imagisme'],['Esth%C3%A9tisme'],['symboliste'],['symboliste'],1
+111,romantique,"['Génération perdue', 'Parnasse']",['Parnasse'],['symboliste'],['symboliste'],2
+112,romantique,['Génération perdue'],"['Négritude', 'Imagisme', 'Ecole de Rochefort', 'surréaliste', 'Ecole romane', 'symboliste', 'Parnasse', 'Illuminisme', 'classique', 'Burlesque', 'pleiade']",['symboliste'],['symboliste'],1
+113,romantique,"['Imagisme', 'objectivisme']","['Lettrisme', 'Dada%C3%AFsme', 'oulipo', 'surréaliste', 'décadentisme', 'Naturalisme', 'du courant réaliste']","['existentialisme', 'Lumieres']",['symboliste'],2
+114,romantique,"['Realisme magique', 'objectivisme', 'gothique', 'Po%C3%A9sie_courtoise']","['proletarienne', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Ecole romane', 'classique']",['symboliste'],['symboliste'],4
+115,romantique,"['Imagisme', 'Ecole romane']","['proletarienne', 'du courant réaliste', 'preromantisme']",['symboliste'],['symboliste'],2
+116,romantique,"['Realisme magique', 'romantique']",['Parnasse'],['symboliste'],['symboliste'],2
+117,romantique,['Imagisme'],"['proletarienne', 'Parnasse', 'romantique', 'preromantisme', 'Illuminisme', 'troubadour']",['symboliste'],"['existentialisme', 'proletarienne']",1
+118,romantique,['romantique'],['romantique'],['Lumieres'],['symboliste'],1
+119,romantique,['romantique'],"['Dada%C3%AFsme', 'Po%C3%A9sie_courtoise']",['Lumieres'],['proletarienne'],1
+120,romantique,"['Imagisme', 'gothique']","['romantique', 'hagiographie']",['symboliste'],['symboliste'],2
+121,romantique,['Imagisme'],['Imagisme'],['symboliste'],['symboliste'],1
+122,romantique,"['Imagisme', 'gothique']",['Imagisme'],['symboliste'],['symboliste'],2
+123,romantique,['romantique'],['romantique'],['symboliste'],['symboliste'],1
+124,romantique,"['Génération perdue', 'du courant réaliste', 'romantique', 'gothique']",['romantique'],['symboliste'],['symboliste'],4
+125,romantique,"['Ecole de Rochefort', 'Ecole romane', 'du courant réaliste']","['Génération perdue', 'proletarienne', 'Parnasse', 'romantique', 'preromantisme', 'pleiade', 'Po%C3%A9sie_courtoise']",['symboliste'],['symboliste'],3
+126,romantique,['romantique'],['romantique'],['symboliste'],['symboliste'],1
+127,romantique,['R%C3%A9alisme_hyst%C3%A9rique'],"['proletarienne', 'Dada%C3%AFsme', 'oulipo', 'classique', 'Burlesque']",['symboliste'],['existentialisme'],1
+128,romantique,['romantique'],"['Dada%C3%AFsme', 'du courant réaliste', 'romantique', 'preromantisme']",['symboliste'],['symboliste'],1
+129,romantique,['Imagisme'],['Parnasse'],['symboliste'],['symboliste'],1
+130,romantique,['romantique'],"['romantique', 'Illuminisme']",['symboliste'],['symboliste'],1
+131,surréaliste,['surréaliste'],['surréaliste'],['symboliste'],['symboliste'],1
+132,surréaliste,['R%C3%A9alisme_socialiste_en_France'],['surréaliste'],['symboliste'],['symboliste'],1
+133,surréaliste,['objectivisme'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'existentialisme', 'Esth%C3%A9tisme']",['symboliste'],['symboliste'],1
+134,surréaliste,['proletarienne'],['symboliste'],['existentialisme'],['symboliste'],1
+135,surréaliste,"['R%C3%A9alisme_socialiste_en_France', 'surréaliste']","['proletarienne', 'R%C3%A9alisme_socialiste_en_France', 'Futurisme', 'décadentisme', 'Ecole romane', 'symboliste', 'Naturalisme', 'romantique', 'pleiade']",['symboliste'],['symboliste'],2
+136,surréaliste,['surréaliste'],['surréaliste'],['symboliste'],['symboliste'],1
+137,surréaliste,['Négritude'],['Négritude'],['symboliste'],['Négritude'],1
+138,surréaliste,['objectivisme'],['pleiade'],['symboliste'],['symboliste'],1
+139,surréaliste,['Imagisme'],"['Imagisme', 'Ecole de Rochefort', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'surréaliste', 'symboliste', 'Parnasse', 'Naturalisme', 'du courant réaliste', 'Lumieres', 'quietisme', 'pleiade']",['symboliste'],['symboliste'],1
+140,surréaliste,['surréaliste'],"['Négritude', 'Imagisme', 'Ecole de Rochefort', 'proletarienne', 'Dada%C3%AFsme', 'surréaliste', 'pleiade']",['symboliste'],['symboliste'],1
+141,surréaliste,['Imagisme'],"['Imagisme', 'Ecole de Rochefort', 'pleiade']",['symboliste'],['symboliste'],1
+142,surréaliste,['Imagisme'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'proletarienne', 'Dada%C3%AFsme', 'surréaliste', 'décadentisme', 'Parnasse', 'Po%C3%A9sie_courtoise']",['symboliste'],['surréaliste'],1
+143,surréaliste,['surréaliste'],"['proletarienne', 'symboliste', 'pleiade']",['symboliste'],['symboliste'],1
+144,surréaliste,"['Post-humanisme', 'Beat Generation', 'Génération perdue', 'Courant de conscience', 'décadentisme', 'baroque']","['pleiade', 'Po%C3%A9sie_courtoise']",['Lumieres'],['symboliste'],6
+145,surréaliste,['humanisme'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'Futurisme', 'Esth%C3%A9tisme', 'romantique']",['symboliste'],['symboliste'],1
+146,surréaliste,"['Dada%C3%AFsme', 'surréaliste']","['proletarienne', 'pleiade']",['symboliste'],['symboliste'],2
+147,surréaliste,"['Négritude', 'proletarienne']",['pleiade'],['symboliste'],['symboliste'],2
+148,surréaliste,['Imagisme'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'R%C3%A9alisme_socialiste_en_France', 'Dada%C3%AFsme', 'surréaliste', 'symboliste']",['existentialisme'],['symboliste'],1
+149,surréaliste,"['Imagisme', 'surréaliste']",['surréaliste'],['symboliste'],['surréaliste'],2
+150,surréaliste,['Post-humanisme'],"['pleiade', 'humanisme']",['symboliste'],['humanisme'],1
+151,surréaliste,"['proletarienne', 'surréaliste']","['Ecole de Rochefort', 'surréaliste', 'Parnasse', 'pleiade']",['symboliste'],['surréaliste'],2
+152,surréaliste,['Imagisme'],"['surréaliste', 'pleiade']",['symboliste'],['symboliste'],1
+153,surréaliste,"['Imagisme', 'objectivisme', 'Dada%C3%AFsme']",['Dada%C3%AFsme'],['surréaliste'],['symboliste'],3
+154,surréaliste,['Imagisme'],['surréaliste'],['symboliste'],['symboliste'],1
+155,surréaliste,['R%C3%A9alisme_socialiste_en_France'],['surréaliste'],['symboliste'],['surréaliste'],1
+156,surréaliste,['Imagisme'],"['Imagisme', 'pleiade']",['symboliste'],['symboliste'],1
+157,surréaliste,"['Dada%C3%AFsme', 'Courant de conscience']","['proletarienne', 'Esth%C3%A9tisme', 'décadentisme', 'Ecole romane', 'du courant réaliste', 'classique', 'Burlesque', 'picaresque', 'Chanson_de_geste', 'hagiographie']",['symboliste'],['symboliste'],2
+158,surréaliste,['Imagisme'],['humanisme'],['symboliste'],['symboliste'],1
+159,surréaliste,['humanisme'],['Futurisme'],['symboliste'],['symboliste'],1
+160,symboliste,['symboliste'],"['N%C3%A9or%C3%A9alisme_(art)', 'Esth%C3%A9tisme', 'Ecole romane', 'symboliste', 'Naturalisme', 'du courant réaliste', 'pleiade']",['symboliste'],['symboliste'],1
+161,symboliste,['Imagisme'],['Dada%C3%AFsme'],['symboliste'],['symboliste'],1
+162,symboliste,['Imagisme'],"['Dada%C3%AFsme', 'Ecole romane', 'symboliste', 'pleiade']",['symboliste'],['symboliste'],1
+163,symboliste,"['R%C3%A9alisme_hyst%C3%A9rique', 'Imagisme', 'gothique']","['proletarienne', 'oulipo', 'Esth%C3%A9tisme', 'décadentisme', 'Ecole romane', 'symboliste', 'Parnasse', 'Po%C3%A9sie_courtoise']",['Lumieres'],['symboliste'],3
+164,hagiographie,['symboliste'],"['Ecole de Rochefort', 'humanisme', 'fabliau']",['symboliste'],['symboliste'],1
+165,hagiographie,['Génération perdue'],['hagiographie'],['symboliste'],['symboliste'],1
+166,hagiographie,['hagiographie'],"['existentialisme', 'Parnasse']",['symboliste'],['symboliste'],1
+167,hagiographie,"['Ecole romane', 'hagiographie']","['humanisme', 'hagiographie']",['symboliste'],['symboliste'],2
+168,troubadour,"['Imagisme', 'troubadour']",['Po%C3%A9sie_courtoise'],['troubadour'],['troubadour'],2
+169,troubadour,"['gothique', 'troubadour']",['Po%C3%A9sie_courtoise'],['symboliste'],['troubadour'],2
+170,troubadour,['troubadour'],['troubadour'],['symboliste'],['troubadour'],1
+171,troubadour,['Imagisme'],"['troubadour', 'Chanson_de_geste']",['symboliste'],['troubadour'],1
+172,troubadour,"['roman courtois', 'Chanson_de_geste']",['pleiade'],['symboliste'],['Lumieres'],2
+173,troubadour,['troubadour'],"['Naturalisme', 'Chanson_de_geste', 'hagiographie']",['Lumieres'],['symboliste'],1
+174,troubadour,"['Imagisme', 'troubadour']","['oulipo', 'Ecole romane', 'preromantisme', 'troubadour']",['Lumieres'],['troubadour'],2
+175,troubadour,['Imagisme'],['Chanson_de_geste'],['Imagisme'],['symboliste'],1
+176,troubadour,['Post-humanisme'],['troubadour'],['symboliste'],['humanisme'],1
+177,troubadour,['troubadour'],"['Ecole romane', 'preromantisme', 'Po%C3%A9sie_courtoise', 'fabliau', 'troubadour']",['symboliste'],"['symboliste', 'troubadour']",1
+178,troubadour,"['objectivisme', 'Futurisme', 'gothique', 'Illuminisme']","['Po%C3%A9sie_courtoise', 'troubadour']",['symboliste'],['troubadour'],4
+179,troubadour,"['Imagisme', 'Lumieres', 'gothique']","['Po%C3%A9sie_courtoise', 'troubadour']",['symboliste'],['troubadour'],3
+180,troubadour,['Po%C3%A9sie_courtoise'],"['troubadour', 'Chanson_de_geste']",['existentialisme'],['symboliste'],1
+181,troubadour,['Imagisme'],"['pleiade', 'troubadour', 'Chanson_de_geste']",['troubadour'],['symboliste'],1
+182,troubadour,"['R%C3%A9alisme_hyst%C3%A9rique', 'Imagisme', 'objectivisme', 'gothique', 'Burlesque', 'Po%C3%A9sie_courtoise', 'troubadour']",['troubadour'],['existentialisme'],['troubadour'],7
+183,troubadour,['Imagisme'],"['Po%C3%A9sie_courtoise', 'troubadour']",['symboliste'],['troubadour'],1
+184,fabliau,['Chanson_de_geste'],"['roman courtois', 'Chanson_de_geste']",['symboliste'],['symboliste'],1
+185,fabliau,['Imagisme'],['Chanson_de_geste'],['symboliste'],"['Lumieres', 'troubadour']",1
+186,fabliau,"['Imagisme', 'Esth%C3%A9tisme', 'Parnasse', 'Chanson_de_geste']",['Chanson_de_geste'],['symboliste'],['symboliste'],4
+187,roman courtois,['roman courtois'],['roman courtois'],['symboliste'],['symboliste'],1
+188,rhetoriqueurs,['Imagisme'],['Esth%C3%A9tisme'],['symboliste'],['symboliste'],1
+189,rhetoriqueurs,"['Post-humanisme', 'Imagisme']","['Imagisme', 'Ecole de Rochefort', 'Populisme_(litt%C3%A9rature)', 'oulipo', 'surréaliste', 'symboliste', 'Parnasse', 'Naturalisme', 'pleiade', 'rhetoriqueurs']",['symboliste'],['symboliste'],2
+190,rhetoriqueurs,"['classique', 'pleiade']",['pleiade'],['symboliste'],['symboliste'],2
+191,rhetoriqueurs,['Ecole de Rochefort'],"['pleiade', 'Chanson_de_geste']",['Lumieres'],['symboliste'],1
+192,rhetoriqueurs,"['Imagisme', 'objectivisme']","['Imagisme', 'Ecole de Rochefort', 'surréaliste', 'symboliste', 'Parnasse', 'gothique', 'pleiade']",['symboliste'],['symboliste'],2
+193,rhetoriqueurs,['rhetoriqueurs'],"['Ecole de Rochefort', 'rhetoriqueurs']",['symboliste'],['symboliste'],1
+194,rhetoriqueurs,['rhetoriqueurs'],['rhetoriqueurs'],['symboliste'],['symboliste'],1
+195,rhetoriqueurs,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+196,rhetoriqueurs,"['Imagisme', 'pleiade']",['pleiade'],['symboliste'],['symboliste'],2
+197,rhetoriqueurs,['objectivisme'],['pleiade'],['symboliste'],['symboliste'],1
+198,humanisme,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+199,humanisme,['Ecole de Rochefort'],['pleiade'],['symboliste'],['humanisme'],1
+200,humanisme,['objectivisme'],['humanisme'],['symboliste'],['classique'],1
+201,humanisme,"['R%C3%A9alisme_hyst%C3%A9rique', 'Autofiction', 'Génération perdue', 'objectivisme', 'Ecole romane', 'roman courtois']","['Dada%C3%AFsme', 'oulipo', 'pleiade', 'humanisme']",['symboliste'],"['classique', 'humanisme']",6
+202,humanisme,['humanisme'],"['proletarienne', 'Futurisme', 'humanisme', 'Po%C3%A9sie_courtoise']",['humanisme'],['humanisme'],1
+203,humanisme,"['Post-humanisme', 'humanisme']","['proletarienne', 'pleiade', 'humanisme']",['symboliste'],['humanisme'],2
+204,humanisme,"['gothique', 'Burlesque']","['humanisme', 'Po%C3%A9sie_courtoise']",['Lumieres'],['existentialisme'],2
+205,humanisme,['Imagisme'],"['Imagisme', 'Ecole de Rochefort', 'surréaliste', 'symboliste', 'Parnasse', 'pleiade']",['symboliste'],['symboliste'],1
+206,humanisme,['Imagisme'],"['Ecole de Rochefort', 'pleiade']",['symboliste'],['symboliste'],1
+207,humanisme,['Imagisme'],['pleiade'],['Lumieres'],['symboliste'],1
+208,humanisme,"['objectivisme', 'humanisme']",['humanisme'],['Lumieres'],['humanisme'],2
+209,humanisme,['Ecole de Rochefort'],['pleiade'],['symboliste'],['humanisme'],1
+210,humanisme,['humanisme'],"['humanisme', 'hagiographie']",['symboliste'],['humanisme'],1
+211,humanisme,['humanisme'],['humanisme'],['Lumieres'],['humanisme'],1
+212,humanisme,"['Imagisme', 'Parnasse', 'Burlesque', 'humanisme']",['humanisme'],['Lumieres'],['humanisme'],4
+213,humanisme,['humanisme'],['humanisme'],['symboliste'],['humanisme'],1
+214,humanisme,"['existentialisme', 'Illuminisme', 'quietisme', 'humanisme']",['humanisme'],['symboliste'],['symboliste'],4
+215,humanisme,['gothique'],['existentialisme'],['Lumieres'],['symboliste'],1
+216,pleiade,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+217,pleiade,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+218,pleiade,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+219,pleiade,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+220,pleiade,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+221,pleiade,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+222,pleiade,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+223,pleiade,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+224,picaresque,"['Imagisme', 'gothique']","['proletarienne', 'gothique', 'Po%C3%A9sie_courtoise', 'troubadour', 'hagiographie']",['symboliste'],['humanisme'],2
+225,picaresque,['symboliste'],"['proletarienne', 'oulipo', 'du courant réaliste', 'gothique', 'picaresque']",['symboliste'],['symboliste'],1
+226,picaresque,['Autofiction'],['pleiade'],['Lumieres'],['symboliste'],1
+227,picaresque,['Imagisme'],['baroque'],['symboliste'],['symboliste'],1
+228,picaresque,"['Imagisme', 'Autofiction', 'objectivisme', 'gothique', 'troubadour']","['Th%C3%A9%C3%A2tre_de_l%27absurde', 'Naturalisme', 'du courant réaliste', 'romantique']",['symboliste'],['classique'],5
+229,picaresque,"['Imagisme', 'Autofiction', 'Parnasse', 'Naturalisme', 'du courant réaliste', 'preciosite', 'Burlesque', 'picaresque', 'roman courtois']",['proletarienne'],['symboliste'],"['proletarienne', 'symboliste']",9
+230,picaresque,"['Autofiction', 'absurde', 'Illuminisme']",['Illuminisme'],['existentialisme'],['proletarienne'],3
+231,picaresque,['du courant réaliste'],"['classique', 'pleiade']",['symboliste'],['symboliste'],1
+232,picaresque,['Imagisme'],['gothique'],['Lumieres'],['symboliste'],1
+233,picaresque,['romantique'],['humanisme'],['symboliste'],['symboliste'],1
+234,picaresque,['Imagisme'],['Imagisme'],['symboliste'],['symboliste'],1
+235,picaresque,['Beat Generation'],"['Post-humanisme', 'Beat Generation', 'Génération perdue', 'objectivisme', 'gothique']",['symboliste'],['Nouveau Roman'],1
+236,picaresque,['Beat Generation'],['Beat Generation'],['symboliste'],['symboliste'],1
+237,picaresque,['objectivisme'],"['proletarienne', 'Populisme_(litt%C3%A9rature)']",['Lumieres'],['symboliste'],1
+238,picaresque,"['Beat Generation', 'objectivisme']","['Génération perdue', 'Lumieres']",['symboliste'],['Lumieres'],2
+239,picaresque,"['Post-humanisme', 'objectivisme']",['pleiade'],['symboliste'],['symboliste'],2
+240,picaresque,['Imagisme'],['du courant réaliste'],['Lumieres'],['symboliste'],1
+241,baroque,['Imagisme'],['Chanson_de_geste'],['symboliste'],['symboliste'],1
+242,baroque,['classique'],['pleiade'],['symboliste'],['symboliste'],1
+243,baroque,['classique'],"['surréaliste', 'symboliste', 'pleiade']",['symboliste'],['symboliste'],1
+244,baroque,['Burlesque'],"['Génération perdue', 'objectivisme', 'proletarienne', 'Esth%C3%A9tisme', 'Parnasse', 'du courant réaliste', 'gothique', 'Burlesque', 'pleiade', 'Po%C3%A9sie_courtoise', 'fabliau', 'Chanson_de_geste']",['symboliste'],['symboliste'],1
+245,baroque,"['Imagisme', 'humanisme']",['Esth%C3%A9tisme'],['symboliste'],['symboliste'],2
+246,classique,['classique'],['classique'],['symboliste'],['symboliste'],1
+247,classique,['classique'],['classique'],['symboliste'],['symboliste'],1
+248,classique,['classique'],['classique'],['symboliste'],['symboliste'],1
+249,classique,['humanisme'],"['humanisme', 'hagiographie']",['symboliste'],['symboliste'],1
+250,classique,"['Lumieres', 'classique']","['Parnasse', 'classique', 'pleiade']",['symboliste'],['symboliste'],2
+251,quietisme,['quietisme'],"['oulipo', 'quietisme', 'humanisme']",['symboliste'],['symboliste'],1
+252,quietisme,['quietisme'],['quietisme'],['symboliste'],['symboliste'],1
+253,quietisme,['quietisme'],['quietisme'],['Lumieres'],['symboliste'],1
+254,quietisme,['Lumieres'],['proletarienne'],['Lumieres'],['symboliste'],1
+255,quietisme,['quietisme'],"['Esth%C3%A9tisme', 'Libertin', 'preromantisme', 'quietisme', 'pleiade']",['Lumieres'],['symboliste'],1
+256,preciosite,['preciosite'],['décadentisme'],['symboliste'],['symboliste'],1
+257,gothique,['Lumieres'],['Lumieres'],['Lumieres'],['symboliste'],1
+258,gothique,['gothique'],['gothique'],['Lumieres'],['symboliste'],1
+259,gothique,['Imagisme'],['Imagisme'],['symboliste'],['symboliste'],1
+260,gothique,['gothique'],['gothique'],['symboliste'],['symboliste'],1
+261,gothique,['gothique'],['Imagisme'],['symboliste'],['symboliste'],1
+262,gothique,"['objectivisme', 'gothique']","['Imagisme', 'existentialisme', 'Esth%C3%A9tisme', 'décadentisme', 'Parnasse', 'baroque']",['existentialisme'],['symboliste'],2
+263,gothique,['gothique'],"['oulipo', 'gothique']",['Lumieres'],['gothique'],1
+264,gothique,['Imagisme'],['gothique'],['symboliste'],['gothique'],1
+265,gothique,['gothique'],['gothique'],['gothique'],['symboliste'],1
+266,gothique,['Imagisme'],['gothique'],['symboliste'],['symboliste'],1
+267,gothique,['Imagisme'],['Imagisme'],['Lumieres'],['symboliste'],1
+268,gothique,['Imagisme'],['Esth%C3%A9tisme'],['symboliste'],['symboliste'],1
+269,gothique,['gothique'],['Imagisme'],['Lumieres'],['symboliste'],1
+270,gothique,"['Imagisme', 'gothique']",['gothique'],['Lumieres'],['symboliste'],2
+271,gothique,['gothique'],['gothique'],['Lumieres'],['symboliste'],1
+272,gothique,['Imagisme'],['gothique'],['symboliste'],['symboliste'],1
+273,gothique,['Courant de conscience'],['Imagisme'],['Lumieres'],['symboliste'],1
+274,gothique,['Imagisme'],"['Beat Generation', 'Génération perdue', 'objectivisme', 'proletarienne', 'Esth%C3%A9tisme', 'décadentisme', 'Po%C3%A9sie_courtoise', 'hagiographie']",['symboliste'],['symboliste'],1
+275,gothique,['Génération perdue'],"['Imagisme', 'Naturalisme']",['Lumieres'],['symboliste'],1
+276,gothique,['gothique'],"['gothique', 'fabliau']",['symboliste'],['symboliste'],1
+277,gothique,['Imagisme'],"['Imagisme', 'proletarienne', 'Courant de conscience', 'du courant réaliste', 'gothique', 'Po%C3%A9sie_courtoise']",['symboliste'],['symboliste'],1
+278,preromantisme,['gothique'],"['Naturalisme', 'gothique', 'pleiade']",['symboliste'],['symboliste'],1
+279,preromantisme,"['Négritude', 'Ecole de Rochefort', 'objectivisme', 'oulipo', 'du courant réaliste', 'gothique', 'baroque', 'fabliau']","['Négritude', 'Post-humanisme', 'Génération perdue', 'Lettrisme', 'existentialisme', 'oulipo', 'décadentisme', 'Illuminisme', 'pleiade']",['symboliste'],['symboliste'],8
+280,preromantisme,['Lumieres'],"['proletarienne', 'Naturalisme', 'pleiade']",['symboliste'],['symboliste'],1
+281,preromantisme,['gothique'],['gothique'],['symboliste'],['symboliste'],1
+282,preromantisme,['romantique'],"['existentialisme', 'romantique', 'Chanson_de_geste']",['symboliste'],['existentialisme'],1
+283,preromantisme,"['Lumieres', 'gothique']","['romantique', 'preromantisme']",['symboliste'],['Lumieres'],2
+284,preromantisme,['romantique'],['romantique'],['symboliste'],['symboliste'],1
+285,preromantisme,['romantique'],['romantique'],['Lumieres'],['symboliste'],1
+286,preromantisme,['du courant réaliste'],['preromantisme'],['symboliste'],['symboliste'],1
+287,preromantisme,"['Imagisme', 'Parnasse', 'Chanson_de_geste']","['romantique', 'pleiade']",['symboliste'],['symboliste'],3
+288,preromantisme,['gothique'],"['Parnasse', 'preromantisme']",['symboliste'],['symboliste'],1
+289,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['symboliste'],1
+290,Lumieres,"['Post-humanisme', 'Imagisme', 'Lumieres']",['Lumieres'],['Lumieres'],['Lumieres'],3
+291,Lumieres,['gothique'],['Libertin'],['existentialisme'],['symboliste'],1
+292,Lumieres,['Imagisme'],['Lumieres'],['Lumieres'],['symboliste'],1
+293,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['symboliste'],1
+294,Lumieres,['gothique'],"['proletarienne', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Lumieres', 'Moralisme', 'pleiade']",['symboliste'],['symboliste'],1
+295,Lumieres,['Lumieres'],['Esth%C3%A9tisme'],['Lumieres'],['Lumieres'],1
+296,Lumieres,['Lumieres'],['Esth%C3%A9tisme'],['Lumieres'],['existentialisme'],1
+297,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['symboliste'],1
+298,Lumieres,['Lumieres'],['Lumieres'],['symboliste'],['symboliste'],1
+299,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['symboliste'],1
+300,Lumieres,['surréaliste'],"['Négritude', 'Autofiction', 'Nouveau Roman', 'Génération perdue', 'surréaliste', 'Esth%C3%A9tisme', 'Lumieres', 'pleiade', 'Po%C3%A9sie_courtoise']",['existentialisme'],['symboliste'],1
+301,Lumieres,['Lumieres'],"['Génération perdue', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Lumieres', 'Illuminisme', 'Moralisme', 'pleiade', 'humanisme', 'Chanson_de_geste', 'hagiographie']",['Lumieres'],['Lumieres'],1
+302,Lumieres,['Lumieres'],['Naturalisme'],['Lumieres'],['symboliste'],1
+303,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['Lumieres'],1
+304,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['symboliste'],1
+305,Lumieres,['Lumieres'],['Naturalisme'],['symboliste'],['symboliste'],1
+306,Lumieres,['Lumieres'],"['Ecole de Rochefort', 'Lumieres']",['Lumieres'],['symboliste'],1
+307,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['symboliste'],1
+308,Lumieres,['Libertin'],"['du courant réaliste', 'Libertin']",['Lumieres'],['symboliste'],1
+309,Lumieres,['gothique'],"['existentialisme', 'Esth%C3%A9tisme', 'Libertin', 'pleiade']",['symboliste'],['symboliste'],1
+310,Lumieres,['du courant réaliste'],"['classique', 'pleiade']",['symboliste'],['symboliste'],1
+311,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['Lumieres'],1
+312,Lumieres,['Lumieres'],"['Négritude', 'Ecole de Rochefort', 'oulipo', 'Ecole romane', 'du courant réaliste', 'Lumieres', 'pleiade', 'Po%C3%A9sie_courtoise']",['Lumieres'],['symboliste'],1
+313,Lumieres,['Esth%C3%A9tisme'],['du courant réaliste'],['Lumieres'],['symboliste'],1
+314,Lumieres,['Lumieres'],"['Génération perdue', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Ecole romane', 'Naturalisme', 'Lumieres', 'Moralisme', 'pleiade']",['Lumieres'],['Lumieres'],1
+315,Lumieres,['Lumieres'],"['Libertin', 'Chanson_de_geste']",['Lumieres'],['Lumieres'],1
+316,Lumieres,['Lumieres'],['Lumieres'],['Lumieres'],['Lumieres'],1
+317,Naturalisme,['Naturalisme'],['Naturalisme'],['symboliste'],['symboliste'],1
+318,Naturalisme,"['objectivisme', 'romantique']","['proletarienne', 'Populisme_(litt%C3%A9rature)', 'symboliste', 'Naturalisme', 'romantique', 'classique']",['symboliste'],['symboliste'],2
+319,Naturalisme,"['Ecole romane', 'symboliste']",['classique'],['symboliste'],['symboliste'],2
+320,Naturalisme,['symboliste'],['Esth%C3%A9tisme'],['symboliste'],['symboliste'],1
+321,Naturalisme,['Naturalisme'],['Naturalisme'],['symboliste'],['symboliste'],1
+322,Naturalisme,"['Imagisme', 'Esth%C3%A9tisme']",['Naturalisme'],['symboliste'],['symboliste'],2
+323,Naturalisme,['symboliste'],"['Génération perdue', 'Th%C3%A9%C3%A2tre_de_l%27absurde', 'proletarienne', 'symboliste', 'Naturalisme', 'romantique', 'pleiade']",['symboliste'],['symboliste'],1
+324,Naturalisme,"['Autofiction', 'décadentisme', 'gothique']","['proletarienne', 'Naturalisme', 'du courant réaliste', 'Lumieres']",['symboliste'],['symboliste'],3
+325,Naturalisme,['classique'],['Naturalisme'],['symboliste'],['symboliste'],1
+326,Naturalisme,['Imagisme'],"['Génération perdue', 'Th%C3%A9%C3%A2tre_de_l%27absurde', 'objectivisme', 'proletarienne', 'Naturalisme', 'du courant réaliste']",['symboliste'],['proletarienne'],1
+327,Naturalisme,['du courant réaliste'],['du courant réaliste'],['symboliste'],['symboliste'],1
+328,Naturalisme,['du courant réaliste'],"['Populisme_(litt%C3%A9rature)', 'Esth%C3%A9tisme', 'du courant réaliste']",['symboliste'],['symboliste'],1
+329,Naturalisme,['du courant réaliste'],"['Populisme_(litt%C3%A9rature)', 'Naturalisme', 'du courant réaliste']",['symboliste'],['symboliste'],1
+330,Naturalisme,['symboliste'],['Naturalisme'],['symboliste'],['symboliste'],1
+331,Naturalisme,['Imagisme'],['Dada%C3%AFsme'],['symboliste'],['symboliste'],1
+332,Naturalisme,['Naturalisme'],['Naturalisme'],['symboliste'],['symboliste'],1
+333,Naturalisme,"['proletarienne', 'Ecole romane', 'symboliste']",['proletarienne'],['symboliste'],['proletarienne'],3
+334,Naturalisme,['du courant réaliste'],['du courant réaliste'],['symboliste'],['symboliste'],1
+335,Naturalisme,"['objectivisme', 'symboliste']",['du courant réaliste'],['symboliste'],['symboliste'],2
+336,Naturalisme,['symboliste'],"['Ecole de Rochefort', 'pleiade']",['symboliste'],['symboliste'],1
+337,Naturalisme,['Imagisme'],['Naturalisme'],['symboliste'],['symboliste'],1
+338,Naturalisme,"['Autofiction', 'proletarienne']",['proletarienne'],['symboliste'],['symboliste'],2
+339,Naturalisme,['symboliste'],"['Realisme magique', 'proletarienne', 'Naturalisme', 'Illuminisme', 'Po%C3%A9sie_courtoise']",['symboliste'],['proletarienne'],1
+340,Naturalisme,['Naturalisme'],['Naturalisme'],['symboliste'],['symboliste'],1
+341,Parnasse,"['Imagisme', 'du courant réaliste']",['Parnasse'],['symboliste'],['symboliste'],2
+342,Parnasse,"['R%C3%A9alisme_hyst%C3%A9rique', 'Imagisme']",['Parnasse'],['symboliste'],['symboliste'],2
+343,Parnasse,['Parnasse'],['Parnasse'],['symboliste'],['symboliste'],1
+344,Parnasse,"['Imagisme', 'Parnasse']","['Imagisme', 'pleiade']",['symboliste'],['symboliste'],2
+345,Parnasse,['Parnasse'],['Imagisme'],['symboliste'],['symboliste'],1
+346,Parnasse,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+347,Parnasse,"['Imagisme', 'symboliste']","['Parnasse', 'pleiade']",['symboliste'],['symboliste'],2
+348,Parnasse,"['Parnasse', 'Libertin', 'Moralisme']","['oulipo', 'décadentisme', 'symboliste']",['symboliste'],['symboliste'],3
+349,Parnasse,"['décadentisme', 'symboliste', 'Parnasse']",['Naturalisme'],['symboliste'],['symboliste'],3
+350,Ecole romane,"['Imagisme', 'Ecole romane']",['symboliste'],['symboliste'],['symboliste'],2
+351,Ecole romane,['symboliste'],"['Génération perdue', 'Ecole romane', 'pleiade']",['symboliste'],['symboliste'],1
+352,Ecole romane,"['proletarienne', 'symboliste']","['Ecole romane', 'pleiade']",['symboliste'],['symboliste'],2
+353,décadentisme,['décadentisme'],['du courant réaliste'],['symboliste'],['symboliste'],1
+354,décadentisme,['symboliste'],['pleiade'],['symboliste'],['symboliste'],1
+355,décadentisme,"['décadentisme', 'symboliste', 'Parnasse']",['Naturalisme'],['symboliste'],['symboliste'],3
+356,décadentisme,"['Imagisme', 'Ecole romane']",['symboliste'],['symboliste'],['symboliste'],2
+357,décadentisme,"['Realisme magique', 'Autofiction']","['Realisme magique', 'proletarienne', 'pleiade']",['symboliste'],['proletarienne'],2
+358,décadentisme,['Imagisme'],"['existentialisme', 'décadentisme', 'symboliste']",['symboliste'],['symboliste'],1
+359,décadentisme,"['décadentisme', 'symboliste']","['Naturalisme', 'pleiade']",['symboliste'],['symboliste'],2
+360,décadentisme,"['Imagisme', 'décadentisme']","['Imagisme', 'pleiade']",['symboliste'],['symboliste'],2
+361,décadentisme,"['décadentisme', 'Parnasse']","['décadentisme', 'du courant réaliste', 'gothique', 'pleiade']",['symboliste'],['symboliste'],2
+362,décadentisme,"['du courant réaliste', 'gothique', 'humanisme']","['Génération perdue', 'objectivisme', 'proletarienne', 'Esth%C3%A9tisme', 'Ecole romane']",['symboliste'],['symboliste'],3
+363,décadentisme,['Imagisme'],"['Génération perdue', 'proletarienne', 'décadentisme', 'Ecole romane', 'symboliste', 'Naturalisme', 'du courant réaliste', 'pleiade', 'Po%C3%A9sie_courtoise']",['symboliste'],['symboliste'],1
+364,décadentisme,['Imagisme'],"['Naturalisme', 'du courant réaliste']",['symboliste'],['symboliste'],1
+365,décadentisme,"['symboliste', 'du courant réaliste']","['Négritude', 'Naturalisme', 'Lumieres', 'humanisme']",['symboliste'],['symboliste'],2
+366,décadentisme,"['Imagisme', 'Génération perdue']",['du courant réaliste'],['symboliste'],['symboliste'],2
+367,décadentisme,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+368,décadentisme,['Imagisme'],['décadentisme'],['symboliste'],['symboliste'],1
+369,décadentisme,"['Imagisme', 'Génération perdue']","['décadentisme', 'du courant réaliste', 'fabliau']",['symboliste'],['symboliste'],2
+370,décadentisme,['symboliste'],"['Parnasse', 'pleiade']",['symboliste'],['symboliste'],1
+371,décadentisme,"['objectivisme', 'symboliste']",['du courant réaliste'],['symboliste'],['symboliste'],2
+372,décadentisme,"['proletarienne', 'R%C3%A9alisme_socialiste_en_France']","['surréaliste', 'Esth%C3%A9tisme', 'Ecole romane']",['symboliste'],['symboliste'],2
+373,décadentisme,"['Imagisme', 'Naturalisme']","['proletarienne', 'Lumieres', 'humanisme']",['symboliste'],['symboliste'],2
+374,décadentisme,['Imagisme'],['décadentisme'],['symboliste'],['symboliste'],1
+375,décadentisme,['R%C3%A9alisme_socialiste_en_France'],['proletarienne'],['symboliste'],['proletarienne'],1
+376,décadentisme,['Post-humanisme'],['pleiade'],['symboliste'],['symboliste'],1
+377,décadentisme,"['décadentisme', 'symboliste']",['décadentisme'],['symboliste'],['symboliste'],2
+378,absurde,"['Imagisme', 'Beat Generation']",['symboliste'],['symboliste'],['symboliste'],2
+379,absurde,['Imagisme'],"['gothique', 'fabliau']",['symboliste'],['symboliste'],1
+380,absurde,['Th%C3%A9%C3%A2tre_de_l%27absurde'],['Th%C3%A9%C3%A2tre_de_l%27absurde'],['symboliste'],['symboliste'],1
+381,absurde,['Imagisme'],['Th%C3%A9%C3%A2tre_de_l%27absurde'],['symboliste'],['symboliste'],1
+382,absurde,['Imagisme'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'surréaliste']",['symboliste'],['symboliste'],1
+383,oulipo,['oulipo'],['oulipo'],['symboliste'],['symboliste'],1
+384,oulipo,"['Lettrisme', 'Ecole de Rochefort', 'oulipo', 'Burlesque']","['Futurisme', 'oulipo']",['existentialisme'],['symboliste'],4
+385,oulipo,"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'oulipo', 'surréaliste']","['Génération perdue', 'Th%C3%A9%C3%A2tre_de_l%27absurde', 'Dada%C3%AFsme', 'oulipo', 'surréaliste', 'pleiade', 'humanisme']",['existentialisme'],['symboliste'],3
+386,oulipo,['oulipo'],"['Ecole de Rochefort', 'pleiade']",['symboliste'],['symboliste'],1
+387,oulipo,['oulipo'],"['Génération perdue', 'Lettrisme', 'existentialisme', 'Futurisme', 'oulipo', 'Lumieres', 'pleiade']",['symboliste'],['symboliste'],1
+388,oulipo,['oulipo'],"['Génération perdue', 'Ecole de Rochefort', 'proletarienne', 'surréaliste', 'pleiade']",['symboliste'],['symboliste'],1
+389,oulipo,['oulipo'],['oulipo'],['symboliste'],['symboliste'],1
+390,oulipo,['oulipo'],"['proletarienne', 'oulipo', 'pleiade']",['symboliste'],['symboliste'],1
+391,oulipo,['oulipo'],"['Génération perdue', 'proletarienne', 'R%C3%A9alisme_socialiste_en_France', 'Dada%C3%AFsme', 'Futurisme', 'oulipo', 'Esth%C3%A9tisme', 'gothique', 'Illuminisme', 'picaresque', 'pleiade', 'Po%C3%A9sie_courtoise', 'fabliau']",['symboliste'],['symboliste'],1
+392,Courant de conscience,['Génération perdue'],"['Imagisme', 'objectivisme', 'proletarienne']",['symboliste'],['symboliste'],1
+393,Courant de conscience,['Nouveau Roman'],"['Nouveau Roman', 'Populisme_(litt%C3%A9rature)', 'Futurisme', 'symboliste']",['symboliste'],['symboliste'],1
+394,proletarienne,['proletarienne'],['proletarienne'],['symboliste'],['symboliste'],1
+395,proletarienne,['proletarienne'],"['Imagisme', 'Naturalisme']",['symboliste'],['symboliste'],1
+396,proletarienne,['R%C3%A9alisme_socialiste_en_France'],['proletarienne'],['symboliste'],['proletarienne'],1
+397,proletarienne,['proletarienne'],['proletarienne'],['symboliste'],['proletarienne'],1
+398,proletarienne,"['R%C3%A9alisme_socialiste_en_France', 'oulipo']",['oulipo'],['Lumieres'],['Lumieres'],2
+399,proletarienne,"['Négritude', 'Autofiction', 'Th%C3%A9%C3%A2tre_de_l%27absurde']","['Imagisme', 'Ecole de Rochefort', 'proletarienne']",['symboliste'],['symboliste'],3
+400,proletarienne,['proletarienne'],"['Imagisme', 'Naturalisme']",['symboliste'],['symboliste'],1
+401,proletarienne,"['proletarienne', 'R%C3%A9alisme_socialiste_en_France']","['proletarienne', 'R%C3%A9alisme_socialiste_en_France', 'Populisme_(litt%C3%A9rature)', 'Dada%C3%AFsme', 'symboliste', 'du courant réaliste', 'Burlesque', 'pleiade']",['symboliste'],['symboliste'],2
+402,proletarienne,"['Imagisme', 'objectivisme']","['proletarienne', 'Populisme_(litt%C3%A9rature)']",['symboliste'],['symboliste'],2
+403,proletarienne,"['Imagisme', 'Ecole de Rochefort', 'proletarienne']","['Parnasse', 'pleiade']",['symboliste'],['symboliste'],3
+404,proletarienne,['proletarienne'],['proletarienne'],['symboliste'],['symboliste'],1
+405,proletarienne,['proletarienne'],['proletarienne'],['symboliste'],['proletarienne'],1
+406,proletarienne,['romantique'],['proletarienne'],['Lumieres'],['proletarienne'],1
+407,proletarienne,['proletarienne'],"['du courant réaliste', 'gothique']",['symboliste'],['symboliste'],1
+408,proletarienne,['proletarienne'],"['proletarienne', 'surréaliste', 'Ecole romane', 'symboliste']",['symboliste'],['symboliste'],1
+409,proletarienne,['gothique'],['proletarienne'],['symboliste'],['symboliste'],1
+410,proletarienne,['proletarienne'],['proletarienne'],['proletarienne'],['proletarienne'],1
+411,proletarienne,['Post-humanisme'],['proletarienne'],['symboliste'],['symboliste'],1
+412,proletarienne,"['Imagisme', 'Génération perdue']","['symboliste', 'pleiade']",['symboliste'],['symboliste'],2
+413,proletarienne,['proletarienne'],"['décadentisme', 'Lumieres']",['symboliste'],['Lumieres'],1
+414,existentialisme,['Génération perdue'],"['Génération perdue', 'existentialisme', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Dada%C3%AFsme', 'symboliste', 'Naturalisme', 'du courant réaliste', 'Lumieres', 'Moralisme', 'quietisme', 'classique', 'baroque', 'pleiade']",['symboliste'],['symboliste'],1
+415,existentialisme,['objectivisme'],['Moralisme'],['symboliste'],['symboliste'],1
+416,existentialisme,['objectivisme'],['Moralisme'],['symboliste'],['symboliste'],1
+417,existentialisme,['Génération perdue'],"['Génération perdue', 'existentialisme', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Dada%C3%AFsme', 'symboliste', 'Naturalisme', 'du courant réaliste', 'Lumieres', 'Moralisme', 'quietisme', 'classique', 'baroque', 'pleiade']",['symboliste'],['symboliste'],1
+418,existentialisme,['existentialisme'],['existentialisme'],['existentialisme'],['existentialisme'],1
+419,existentialisme,['Imagisme'],['humanisme'],['Nouveau Roman'],['symboliste'],1
+420,objectivisme,['objectivisme'],['objectivisme'],['symboliste'],['symboliste'],1
+421,objectivisme,['objectivisme'],"['Imagisme', 'objectivisme']",['symboliste'],['symboliste'],1
+422,objectivisme,"['Imagisme', 'objectivisme']",['objectivisme'],['symboliste'],['proletarienne'],2
+423,objectivisme,['objectivisme'],['objectivisme'],['Lumieres'],['symboliste'],1
+424,objectivisme,['Imagisme'],['Imagisme'],['symboliste'],['symboliste'],1
+425,Ecole de Rochefort,['Imagisme'],['Ecole de Rochefort'],['symboliste'],['symboliste'],1
+426,Ecole de Rochefort,['R%C3%A9alisme_socialiste_en_France'],"['Ecole de Rochefort', 'proletarienne', 'pleiade']",['symboliste'],['symboliste'],1
+427,Ecole de Rochefort,['Dada%C3%AFsme'],"['Imagisme', 'pleiade']",['symboliste'],['symboliste'],1
+428,Ecole de Rochefort,"['Imagisme', 'Ecole de Rochefort']","['Imagisme', 'pleiade']",['symboliste'],['symboliste'],2
+429,Ecole de Rochefort,['objectivisme'],"['Ecole de Rochefort', 'pleiade']",['Lumieres'],['symboliste'],1
+430,Ecole de Rochefort,"['objectivisme', 'R%C3%A9alisme_socialiste_en_France']","['surréaliste', 'pleiade']",['symboliste'],['symboliste'],2
+431,Ecole de Rochefort,['Libertin'],['R%C3%A9alisme_socialiste_en_France'],['symboliste'],['symboliste'],1
+432,Ecole de Rochefort,"['Imagisme', 'Ecole de Rochefort', 'proletarienne']","['Parnasse', 'pleiade']",['symboliste'],['symboliste'],3
+433,Ecole de Rochefort,"['Sacra%C3%AFsme', 'Post-humanisme', 'Nouvelle_fiction', 'Nouveau Roman', 'Lettrisme', 'Ecole de Rochefort', 'objectivisme', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Courant de conscience', 'oulipo', 'décadentisme', 'Naturalisme', 'preromantisme', 'gothique', 'Illuminisme', 'Moralisme', 'fabliau', 'roman courtois', 'Chanson_de_geste']","['Imagisme', 'pleiade']",['symboliste'],['symboliste'],19
+434,Ecole de Rochefort,"['Imagisme', 'Ecole de Rochefort']",['Ecole de Rochefort'],['symboliste'],['symboliste'],2
+435,Ecole de Rochefort,['Parnasse'],['pleiade'],['symboliste'],['symboliste'],1
+436,Ecole de Rochefort,['Imagisme'],"['Parnasse', 'pleiade']",['symboliste'],['symboliste'],1
+437,Ecole de Rochefort,['R%C3%A9alisme_socialiste_en_France'],['Négritude'],['symboliste'],['symboliste'],1
+438,Ecole de Rochefort,"['R%C3%A9alisme_hyst%C3%A9rique', 'Nouveau Roman', 'Génération perdue', 'Lumieres']","['surréaliste', 'pleiade']",['symboliste'],['symboliste'],4
+439,Ecole de Rochefort,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+440,Ecole de Rochefort,['Ecole de Rochefort'],['pleiade'],['symboliste'],['symboliste'],1
+441,Ecole de Rochefort,['oulipo'],['pleiade'],['symboliste'],['symboliste'],1
+442,Ecole de Rochefort,['Génération perdue'],"['R%C3%A9alisme_socialiste_en_France', 'Futurisme', 'surréaliste', 'symboliste', 'pleiade']",['symboliste'],['symboliste'],1
+443,Ecole de Rochefort,"['Génération perdue', 'objectivisme']","['proletarienne', 'pleiade']",['symboliste'],['symboliste'],2
+444,Ecole de Rochefort,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+445,Ecole de Rochefort,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+446,Ecole de Rochefort,"['Imagisme', 'troubadour']","['Dada%C3%AFsme', 'symboliste', 'Parnasse', 'Naturalisme', 'pleiade']",['Lumieres'],['symboliste'],2
+447,Ecole de Rochefort,['Imagisme'],['pleiade'],['symboliste'],['symboliste'],1
+448,Ecole de Rochefort,"['proletarienne', 'R%C3%A9alisme_socialiste_en_France']",['surréaliste'],['symboliste'],['symboliste'],2
+449,Ecole de Rochefort,"['Autofiction', 'objectivisme']","['proletarienne', 'Dada%C3%AFsme', 'oulipo', 'surréaliste', 'Naturalisme', 'pleiade', 'Po%C3%A9sie_courtoise']",['symboliste'],['proletarienne'],2
+450,Ecole de Rochefort,['oulipo'],"['surréaliste', 'pleiade']",['symboliste'],['symboliste'],1
+451,Ecole de Rochefort,"['Imagisme', 'objectivisme', 'Ecole romane', 'gothique']",['décadentisme'],['symboliste'],"['existentialisme', 'Lumieres']",4
+452,Ecole de Rochefort,['gothique'],"['surréaliste', 'pleiade']",['symboliste'],['symboliste'],1
+453,Ecole de Rochefort,['Ecole de Rochefort'],['pleiade'],['symboliste'],['symboliste'],1
+454,Ecole de Rochefort,['proletarienne'],"['Ecole de Rochefort', 'pleiade']",['symboliste'],['symboliste'],1
+455,Ecole de Rochefort,['objectivisme'],"['Ecole de Rochefort', 'proletarienne']",['symboliste'],['symboliste'],1
+456,Nouveau Roman,['Nouveau Roman'],['pleiade'],['symboliste'],['symboliste'],1
+457,Nouveau Roman,['Nouveau Roman'],['Nouveau Roman'],['symboliste'],['symboliste'],1
+458,Nouveau Roman,['Nouveau Roman'],"['Nouveau Roman', 'Populisme_(litt%C3%A9rature)', 'Futurisme', 'symboliste']",['symboliste'],['symboliste'],1
+459,Nouveau Roman,['Nouveau Roman'],['Nouveau Roman'],['symboliste'],['symboliste'],1
+460,Nouveau Roman,['objectivisme'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'Esth%C3%A9tisme']",['symboliste'],['symboliste'],1
+461,Nouveau Roman,['Nouveau Roman'],['proletarienne'],['Nouveau Roman'],['symboliste'],1
+462,Realisme magique,['Realisme magique'],['Realisme magique'],['symboliste'],['symboliste'],1
+463,Realisme magique,['objectivisme'],['proletarienne'],['symboliste'],['proletarienne'],1
+464,Realisme magique,['objectivisme'],"['Beat Generation', 'du courant réaliste', 'Burlesque', 'rhetoriqueurs']",['symboliste'],['symboliste'],1
+465,Realisme magique,['objectivisme'],"['proletarienne', 'Esth%C3%A9tisme', 'décadentisme', 'Naturalisme', 'humanisme', 'rhetoriqueurs', 'Chanson_de_geste']",['symboliste'],['symboliste'],1
+466,Realisme magique,['Courant de conscience'],['Esth%C3%A9tisme'],['symboliste'],['symboliste'],1
+467,Realisme magique,['Imagisme'],"['R%C3%A9alisme_socialiste_en_France', 'Dada%C3%AFsme', 'symboliste', 'pleiade']",['symboliste'],['symboliste'],1
+468,Realisme magique,"['Imagisme', 'Realisme magique']","['Realisme magique', 'humanisme']",['symboliste'],['symboliste'],2
+469,Realisme magique,"['Imagisme', 'Realisme magique', 'objectivisme']",['Futurisme'],['symboliste'],['symboliste'],3
+470,Realisme magique,"['Realisme magique', 'Courant de conscience']",['Realisme magique'],['symboliste'],['symboliste'],2
+471,Négritude,['Négritude'],['Négritude'],['symboliste'],['symboliste'],1
+472,Négritude,['Négritude'],['Négritude'],['symboliste'],['symboliste'],1
+473,Négritude,['Négritude'],['Négritude'],['symboliste'],['symboliste'],1
+474,Négritude,['Négritude'],"['Futurisme', 'Lumieres']",['symboliste'],['symboliste'],1
+475,Négritude,['Négritude'],['Négritude'],['symboliste'],['symboliste'],1
+476,Négritude,['Imagisme'],"['Ecole de Rochefort', 'Dada%C3%AFsme', 'surréaliste']",['symboliste'],['symboliste'],1
+477,Négritude,['Négritude'],['Négritude'],['symboliste'],['symboliste'],1
+478,Négritude,['Négritude'],['Parnasse'],['symboliste'],['symboliste'],1
+479,Beat Generation,['Beat Generation'],['Naturalisme'],['symboliste'],['Beat Generation'],1
+480,Génération perdue,['Imagisme'],['Imagisme'],['symboliste'],['symboliste'],1
+481,du courant réaliste,['Esth%C3%A9tisme'],"['existentialisme', 'du courant réaliste']",['symboliste'],['symboliste'],1
+482,du courant réaliste,['du courant réaliste'],['Imagisme'],['symboliste'],['existentialisme'],1
+483,du courant réaliste,['Esth%C3%A9tisme'],['du courant réaliste'],['symboliste'],['symboliste'],1
+484,du courant réaliste,"['Esth%C3%A9tisme', 'du courant réaliste']","['Négritude', 'décadentisme', 'Libertin']",['symboliste'],['symboliste'],2
+485,romantique,"['symboliste', 'troubadour']",['troubadour'],['symboliste'],['symboliste'],2
+486,romantique,['Esth%C3%A9tisme'],['romantique'],['symboliste'],['symboliste'],1
+487,romantique,"['Esth%C3%A9tisme', 'Parnasse', 'du courant réaliste']",['Esth%C3%A9tisme'],['symboliste'],['symboliste'],3
+488,romantique,['Esth%C3%A9tisme'],['Imagisme'],['symboliste'],['symboliste'],1
+489,romantique,"['Parnasse', 'du courant réaliste']",['proletarienne'],['symboliste'],['symboliste'],2
+490,romantique,"['du courant réaliste', 'romantique', 'gothique']","['Génération perdue', 'objectivisme', 'Dada%C3%AFsme', 'oulipo', 'Naturalisme', 'du courant réaliste', 'classique', 'Po%C3%A9sie_courtoise']",['symboliste'],['symboliste'],3
+491,romantique,['Esth%C3%A9tisme'],"['Parnasse', 'romantique', 'preromantisme', 'classique', 'pleiade']",['symboliste'],['symboliste'],1
+492,romantique,['classique'],"['Parnasse', 'preromantisme', 'pleiade']",['symboliste'],['symboliste'],1
+493,romantique,['romantique'],"['Négritude', 'Imagisme', 'Ecole de Rochefort', 'Dada%C3%AFsme', 'oulipo', 'surréaliste', 'symboliste', 'Parnasse', 'Naturalisme', 'du courant réaliste', 'classique', 'pleiade']",['symboliste'],['symboliste'],1
+494,romantique,['romantique'],['pleiade'],['symboliste'],['symboliste'],1
+495,romantique,['du courant réaliste'],['du courant réaliste'],['symboliste'],['symboliste'],1
+496,romantique,['romantique'],['Parnasse'],['symboliste'],['symboliste'],1
+497,romantique,['Esth%C3%A9tisme'],"['Esth%C3%A9tisme', 'humanisme']",['symboliste'],['symboliste'],1
+498,romantique,['romantique'],['Dada%C3%AFsme'],['symboliste'],['romantique'],1
+499,romantique,"['Imagisme', 'Esth%C3%A9tisme']","['Imagisme', 'preromantisme']",['symboliste'],['symboliste'],2
+500,surréaliste,['oulipo'],"['Génération perdue', 'proletarienne', 'R%C3%A9alisme_socialiste_en_France', 'Dada%C3%AFsme', 'Futurisme', 'oulipo', 'Esth%C3%A9tisme', 'gothique', 'Illuminisme', 'picaresque', 'pleiade', 'Po%C3%A9sie_courtoise', 'fabliau']",['symboliste'],['symboliste'],1
+501,surréaliste,['proletarienne'],"['Imagisme', 'pleiade']",['symboliste'],['symboliste'],1
+502,surréaliste,"['R%C3%A9alisme_socialiste_en_France', 'Dada%C3%AFsme', 'symboliste']","['symboliste', 'pleiade']",['symboliste'],['symboliste'],3
+503,surréaliste,['surréaliste'],"['Ecole de Rochefort', 'surréaliste', 'Parnasse', 'pleiade']",['symboliste'],['surréaliste'],1
+504,surréaliste,['surréaliste'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'proletarienne', 'R%C3%A9alisme_socialiste_en_France', 'Dada%C3%AFsme', 'surréaliste', 'décadentisme']",['symboliste'],['surréaliste'],1
+505,surréaliste,['Dada%C3%AFsme'],"['Dada%C3%AFsme', 'surréaliste']",['symboliste'],['surréaliste'],1
+506,surréaliste,['surréaliste'],"['Ecole de Rochefort', 'surréaliste', 'décadentisme', 'Illuminisme', 'quietisme', 'pleiade']",['symboliste'],['symboliste'],1
+507,surréaliste,"['proletarienne', 'surréaliste', 'Parnasse']","['Négritude', 'Imagisme', 'Th%C3%A9%C3%A2tre_de_l%27absurde', 'proletarienne', 'Dada%C3%AFsme', 'oulipo', 'surréaliste', 'Parnasse']",['symboliste'],['surréaliste'],3
+508,surréaliste,['surréaliste'],['proletarienne'],['symboliste'],['symboliste'],1
+509,surréaliste,['Esth%C3%A9tisme'],['surréaliste'],['symboliste'],['surréaliste'],1
+510,surréaliste,['surréaliste'],"['Nouvelle_fiction', 'Realisme magique', 'proletarienne', 'Renaissance_litt%C3%A9raire_catholique_en_France', 'Dada%C3%AFsme', 'Futurisme', 'surréaliste']",['symboliste'],['surréaliste'],1
+511,surréaliste,['proletarienne'],"['Dada%C3%AFsme', 'surréaliste', 'pleiade']",['symboliste'],['surréaliste'],1
+512,symboliste,['pleiade'],['pleiade'],['symboliste'],['symboliste'],1
+513,rhetoriqueurs,['humanisme'],"['Beat Generation', 'oulipo', 'Naturalisme', 'pleiade', 'Chanson_de_geste']",['symboliste'],['symboliste'],1
+514,rhetoriqueurs,"['humanisme', 'Po%C3%A9sie_courtoise']",['pleiade'],['symboliste'],['symboliste'],2
+515,rhetoriqueurs,"['humanisme', 'hagiographie']",['pleiade'],['symboliste'],['symboliste'],2
+516,rhetoriqueurs,['Esth%C3%A9tisme'],"['Ecole de Rochefort', 'pleiade', 'rhetoriqueurs']",['symboliste'],['symboliste'],1
+517,humanisme,['humanisme'],['humanisme'],['symboliste'],['symboliste'],1
+518,humanisme,['humanisme'],['humanisme'],['symboliste'],['symboliste'],1
+519,picaresque,['hagiographie'],"['Autofiction', 'hagiographie']",['symboliste'],['symboliste'],1
+520,picaresque,['classique'],['picaresque'],['symboliste'],['symboliste'],1
+521,picaresque,['Esth%C3%A9tisme'],['Imagisme'],['symboliste'],['symboliste'],1
+522,picaresque,"['classique', 'Chanson_de_geste']","['proletarienne', 'classique']",['symboliste'],['proletarienne'],2
+523,gothique,['Imagisme'],['classique'],['symboliste'],['symboliste'],1
+524,gothique,['Imagisme'],"['Imagisme', 'Lettrisme', 'existentialisme', 'oulipo', 'décadentisme', 'romantique', 'gothique']",['symboliste'],['symboliste'],1
+525,gothique,['Esth%C3%A9tisme'],"['Imagisme', 'Lettrisme', 'oulipo', 'décadentisme', 'gothique']",['symboliste'],['symboliste'],1
+526,gothique,['gothique'],['gothique'],['symboliste'],['symboliste'],1
+527,gothique,['gothique'],['gothique'],['symboliste'],['symboliste'],1
+528,gothique,['Esth%C3%A9tisme'],"['Esth%C3%A9tisme', 'humanisme']",['symboliste'],['symboliste'],1
+529,gothique,['Esth%C3%A9tisme'],"['Autofiction', 'Esth%C3%A9tisme']",['symboliste'],['symboliste'],1
+530,preromantisme,"['romantique', 'classique']","['romantique', 'Lumieres', 'Illuminisme', 'classique']",['symboliste'],['symboliste'],2
+531,preromantisme,['Esth%C3%A9tisme'],['romantique'],['symboliste'],['symboliste'],1
+532,Lumieres,['Moralisme'],['Lumieres'],['Lumieres'],['Lumieres'],1
+533,Lumieres,['Lumieres'],['Lumieres'],['symboliste'],['symboliste'],1
+534,Lumieres,['Lumieres'],['Lumieres'],['symboliste'],['Lumieres'],1
+535,Naturalisme,['Parnasse'],['du courant réaliste'],['symboliste'],['symboliste'],1
+536,Naturalisme,['symboliste'],"['proletarienne', 'oulipo', 'décadentisme', 'Ecole romane']",['symboliste'],['symboliste'],1
+537,Parnasse,['Parnasse'],['Parnasse'],['symboliste'],['symboliste'],1
+538,Ecole romane,['Esth%C3%A9tisme'],"['Esth%C3%A9tisme', 'Ecole romane', 'Lumieres']",['symboliste'],['symboliste'],1
+539,Ecole romane,['Ecole romane'],['Ecole romane'],['symboliste'],['symboliste'],1
+540,décadentisme,['symboliste'],"['proletarienne', 'oulipo', 'décadentisme', 'Ecole romane']",['symboliste'],['symboliste'],1
+541,décadentisme,['Esth%C3%A9tisme'],"['décadentisme', 'romantique']",['symboliste'],['symboliste'],1
+542,décadentisme,"['Imagisme', 'oulipo', 'Parnasse', 'du courant réaliste']","['Lettrisme', 'Ecole de Rochefort', 'oulipo', 'décadentisme', 'pleiade', 'fabliau']",['symboliste'],['symboliste'],4
+543,absurde,['existentialisme'],['existentialisme'],['symboliste'],['existentialisme'],1
+544,absurde,['Esth%C3%A9tisme'],"['Th%C3%A9%C3%A2tre_de_l%27absurde', 'Ecole de Rochefort', 'pleiade']",['symboliste'],['symboliste'],1
+545,Courant de conscience,['Esth%C3%A9tisme'],"['Dada%C3%AFsme', 'du courant réaliste', 'pleiade']",['symboliste'],['symboliste'],1
+546,Courant de conscience,['Esth%C3%A9tisme'],['Imagisme'],['symboliste'],['symboliste'],1
+547,proletarienne,['proletarienne'],"['Populisme_(litt%C3%A9rature)', 'surréaliste', 'symboliste', 'Naturalisme', 'preromantisme']",['symboliste'],['symboliste'],1
+548,existentialisme,['existentialisme'],['existentialisme'],['symboliste'],['symboliste'],1
+549,existentialisme,['humanisme'],['Moralisme'],['symboliste'],['symboliste'],1
+550,objectivisme,['Imagisme'],['Imagisme'],['symboliste'],['symboliste'],1
+551,Ecole de Rochefort,['Ecole de Rochefort'],['Ecole de Rochefort'],['symboliste'],['symboliste'],1
+552,Ecole de Rochefort,['Ecole de Rochefort'],"['Négritude', 'Génération perdue', 'preromantisme', 'pleiade']",['symboliste'],['symboliste'],1
+553,Ecole de Rochefort,['humanisme'],['pleiade'],['symboliste'],['symboliste'],1
+554,Ecole de Rochefort,['Parnasse'],['pleiade'],['symboliste'],['symboliste'],1
+555,Ecole de Rochefort,['Ecole de Rochefort'],"['Imagisme', 'pleiade']",['symboliste'],['symboliste'],1
+556,Ecole de Rochefort,['Ecole de Rochefort'],['pleiade'],['symboliste'],['symboliste'],1
+557,Nouveau Roman,['Nouveau Roman'],['Nouveau Roman'],['symboliste'],['symboliste'],1
+558,Négritude,['Négritude'],['Négritude'],['symboliste'],['symboliste'],1
