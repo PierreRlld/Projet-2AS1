@@ -1,4 +1,6 @@
 # Projet-2AS1
-*Consignes de lecture*<br>
+**Consignes de lecture**
 #
-Arborescence fichiers:
+Arborescence fichiers:<br>
+- Notebooks de scraping:
+    - [sub_scrap](sub_scrap.ipynb)
