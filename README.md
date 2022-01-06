@@ -11,7 +11,7 @@ Arborescence fichiers:<br>
         > Création [Mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv) : scraping de cette [page](https://fr.wikipedia.org/wiki/Liste_des_mouvements_litt%C3%A9raires) afin d'obtenir une liste de mouvements littéraires puis scraping de chaque page de chaque mouvement.
 - Modélisation:
     - Classification:
-        > [Dictionary method](pred_dictionary_method.ipynb)<br> : prédiction du mouvement auquel appartient un auteur sur la base du comptage. On compare de différentes manières le texte de la page wikipédia de chaque auteur, ou simplement le résumé, avec les informations obtenues sur chaque mouvement littéraire via leur page wikipédia afin de prédire de laquelle il est le plus proche.<br>
+        > [Dictionary method](pred_dictionary_method.ipynb): prédiction du mouvement auquel appartient un auteur sur la base du comptage. On compare de différentes manières le texte de la page wikipédia de chaque auteur, ou simplement le résumé, avec les informations obtenues sur chaque mouvement littéraire via leur page wikipédia afin de prédire de laquelle il est le plus proche.<br>
         > [Body](body.ipynb) on teste simplement quelques modèles connus mais sans pousser par manque de temps.
     - Clustering: 
         > [LDA](LDA.ipynb) Utilisation de ce topic model pour tenter d'agréger les corpus de textes que sont les pages wikipédia des auteurs en cluster correspondant aux mouvements littéraires.
