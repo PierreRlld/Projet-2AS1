@@ -23,7 +23,7 @@ Arborescence fichiers:<br>
     - [mvm_scrap](mvm_scrap.ipynb) : scraping de cette [page](https://fr.wikipedia.org/wiki/Liste_des_mouvements_litt%C3%A9raires) afin d'obtenir une liste de mouvements littéraires puis scraping de chaque page de chaque mouvement.
         > Création [mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv) 
     - [cleaning_mouvements](cleaning_mouvements.ipynb) :
-        > Création [auteur_incomplete_completed.csv](auteur_incomplete_completed.csv), [auteurs_completed_lem.csv](auteurs_completed_lem.csv), [auteurs_complete2.csv](auteurs_complete2.csv) : rajouter des données via la bibliothèque Wikipédia pour des auteurs pour lesquels une partie du scraping précédent avait échoué.
+        > Création [auteurs_incomplete_completed.csv](auteurs_incomplete_completed.csv), [auteurs_completed_lem.csv](auteurs_completed_lem.csv), [auteurs_complete2.csv](auteurs_complete2.csv) : rajouter des données via la bibliothèque Wikipédia pour des auteurs pour lesquels une partie du scraping précédent avait échoué.
         > Création [auteurs_completed.csv](auteurs_completed.ipynb) à partir de [data.csv](data.ipynb) : on rajoute la page wikipedia dans son ensemble si possible.<br>
         > Création [Mouvements_wiki_cleaned1.csv](Mouvements_wiki_cleaned1.csv) à partir de [Mouvements_wiki_cleaned.csv](Mouvements_wiki_cleaned.csv) : différence au niveau du format des noms des mouvements (format % ou texte classique).<br>
 - Modélisation:
